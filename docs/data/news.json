@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:29:24Z",
+ "updated": "2026-11-11T12:44:46Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,20 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMihAFBVV95cUxOcUJWaFcxbFlzY0NUc3BkeldaQjkxT01QcklYaWtGRU40Z0JXd2NLNXBTcXhMTnNHcW12cU5MaFBVT2NQeEpoSjQydVp0djYzS01FRldmTk45N3BtVHlFQVNlSzVxa0dyYUNKUlE2YnVkSWlDX2NyeTAtV09QX1JEMFNvdVU",
+   "title": "Backbase Names Two CTOs to Lead Digital, Agentic Banking",
+   "source": "Fintech Singapore",
+   "published": "2026-11-11T03:33:48Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUJWaFcxbFlzY0NUc3BkeldaQjkxT01QcklYaWtGRU40Z0JXd2NLNXBTcXhMTnNHcW12cU5MaFBVT2NQeEpoSjQydVp0djYzS01FRldmTk45N3BtVHlFQVNlSzVxa0dyYUNKUlE2YnVkSWlDX2NyeTAtV09QX1JEMFNvdVU?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMikAFBVV95cUxOXzhHOWQ1UUxuVm1lcWc5LWNRellQaUI4dlB3WXdrMHR6WTMtSUczOHBJZmJHdVBjeDdoWkhIQ3Q3SnJBWkJiQVZCNTRLTGtNVUYxQUpESW9NY2hmSm9CWm5WUndWajNERUgwMnhzVHV6SThSUE5mTm9hYUcwM1pNQndKSEJvM3hXZlh6elVBZzM",
    "title": "Backbase bets on agentic AI with dual CTO leadership",
@@ -60,6 +74,20 @@
     "Finastra"
    ],
    "first_seen": "2026-11-09T13:55:52Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiZEFVX3lxTFBWWFpzcmFaLUJKZTRfMHRnMU8yUVRZR28weE12ejlndVlqWFY5Um90bEp0dlFPc19TM1lKMTQwM1VKUmhpMndESE9rc3dlS180TzFpSm1leEZIM3BCSEtLeVpRc1Y",
+   "title": "Cours, actualités, cotation et historique des capital-actions Temenos AG (TE8N.F)",
+   "source": "Yahoo Finance France",
+   "published": "2026-11-08T05:14:10Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWWFpzcmFaLUJKZTRfMHRnMU8yUVRZR28weE12ejlndVlqWFY5Um90bEp0dlFPc19TM1lKMTQwM1VKUmhpMndESE9rc3dlS180TzFpSm1leEZIM3BCSEtLeVpRc1Y?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
    "countries": [],
    "regions": []
   },
@@ -134,6 +162,24 @@
     "Backbase"
    ],
    "first_seen": "2026-11-06T12:58:20Z",
+   "countries": [
+    "Libya"
+   ],
+   "regions": [
+    "Middle East & Africa"
+   ]
+  },
+  {
+   "id": "CBMiggFBVV95cUxNOVAyUEs3UmRVdUFPdkFlUE9mckRHcTVCcjdIMXF3aWZfSEMzQ1JxV3ZQRGRmdFp3MldMZWhmTGRYSnk0OGZOUE1uMEhlNkNmQlQyZ05DMUh0bXZDRWxEbThxWnNzbFBSelBvb0ZQODJCZjN2Q3Z3cW1WM1czYUNZUkZ3",
+   "title": "Libya’s Wahda Bank taps Backbase for digital services",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T11:57:53Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVAyUEs3UmRVdUFPdkFlUE9mckRHcTVCcjdIMXF3aWZfSEMzQ1JxV3ZQRGRmdFp3MldMZWhmTGRYSnk0OGZOUE1uMEhlNkNmQlQyZ05DMUh0bXZDRWxEbThxWnNzbFBSelBvb0ZQODJCZjN2Q3Z3cW1WM1czYUNZUkZ3?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
    "countries": [
     "Libya"
    ],
@@ -330,12 +376,12 @@
    "regions": []
   },
   {
-   "id": "CBMivgFBVV95cUxPUmFKYlVvVFp4NkxPY0diemZYd1ZUZ0ZaeGFRZnREWVdOU0h6RUlBNzM3ZmN1clhMLXpTbmdJcFhfbl9MWnJCYU5qSkR2VkxfWmUyY1V6VHpwX2V6eTc0WHVRV1VfMXVhai1lODBvV0lCenkzczNYaVFadW5qc1hjeUJDN2RseDBMZGZOUzdMWDdMUnFLNk5mSDByb09TNkV6dEJCTzNXQUVaanBnU29xazB2dm1FYVdibVZsSnNn",
-   "title": "74Software affiche une croissance au troisième trimestre 2026 portée par les souscriptions d’Axway et SBS",
-   "source": "ABC Bourse",
-   "published": "2026-10-29T17:55:06Z",
-   "lang": "fr",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmFKYlVvVFp4NkxPY0diemZYd1ZUZ0ZaeGFRZnREWVdOU0h6RUlBNzM3ZmN1clhMLXpTbmdJcFhfbl9MWnJCYU5qSkR2VkxfWmUyY1V6VHpwX2V6eTc0WHVRV1VfMXVhai1lODBvV0lCenkzczNYaVFadW5qc1hjeUJDN2RseDBMZGZOUzdMWDdMUnFLNk5mSDByb09TNkV6dEJCTzNXQUVaanBnU29xazB2dm1FYVdibVZsSnNn?oc=5",
+   "id": "CBMixAFBVV95cUxQc0JEamd6RUllU3gwQlNXa3c0WkVjb1JqZVlRdkxtZ0oxWTQ2a3lUYU5GNlg2U2ctRUVtMzB0cDZFX3liS1BHSDJBcERWcG4wU2d0U1Rlb0lZei05QW5ESm5DNDAtREVveDdZMVczZmlIbjV1VDJLNEozYjhfS0hWbGlxRlQtSlROclMtblZqWkNPX3NzVGJSU2NQX1JOdmxHR0F3V0hXT1QtTjRFOHpjcjdnVzFTWTlESncwX25jd2dEVkZK",
+   "title": "74Software’s Subscription Push Fuels Q3 Growth and Higher Recurring Revenue",
+   "source": "TipRanks",
+   "published": "2026-10-29T07:25:26Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0JEamd6RUllU3gwQlNXa3c0WkVjb1JqZVlRdkxtZ0oxWTQ2a3lUYU5GNlg2U2ctRUVtMzB0cDZFX3liS1BHSDJBcERWcG4wU2d0U1Rlb0lZei05QW5ESm5DNDAtREVveDdZMVczZmlIbjV1VDJLNEozYjhfS0hWbGlxRlQtSlROclMtblZqWkNPX3NzVGJSU2NQX1JOdmxHR0F3V0hXT1QtTjRFOHpjcjdnVzFTWTlESncwX25jd2dEVkZK?oc=5",
    "brands": [
     "SBS"
    ],
@@ -344,12 +390,12 @@
    "regions": []
   },
   {
-   "id": "CBMixAFBVV95cUxQc0JEamd6RUllU3gwQlNXa3c0WkVjb1JqZVlRdkxtZ0oxWTQ2a3lUYU5GNlg2U2ctRUVtMzB0cDZFX3liS1BHSDJBcERWcG4wU2d0U1Rlb0lZei05QW5ESm5DNDAtREVveDdZMVczZmlIbjV1VDJLNEozYjhfS0hWbGlxRlQtSlROclMtblZqWkNPX3NzVGJSU2NQX1JOdmxHR0F3V0hXT1QtTjRFOHpjcjdnVzFTWTlESncwX25jd2dEVkZK",
-   "title": "74Software’s Subscription Push Fuels Q3 Growth and Higher Recurring Revenue",
-   "source": "TipRanks",
-   "published": "2026-10-29T07:25:26Z",
-   "lang": "en",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0JEamd6RUllU3gwQlNXa3c0WkVjb1JqZVlRdkxtZ0oxWTQ2a3lUYU5GNlg2U2ctRUVtMzB0cDZFX3liS1BHSDJBcERWcG4wU2d0U1Rlb0lZei05QW5ESm5DNDAtREVveDdZMVczZmlIbjV1VDJLNEozYjhfS0hWbGlxRlQtSlROclMtblZqWkNPX3NzVGJSU2NQX1JOdmxHR0F3V0hXT1QtTjRFOHpjcjdnVzFTWTlESncwX25jd2dEVkZK?oc=5",
+   "id": "CBMivgFBVV95cUxPUmFKYlVvVFp4NkxPY0diemZYd1ZUZ0ZaeGFRZnREWVdOU0h6RUlBNzM3ZmN1clhMLXpTbmdJcFhfbl9MWnJCYU5qSkR2VkxfWmUyY1V6VHpwX2V6eTc0WHVRV1VfMXVhai1lODBvV0lCenkzczNYaVFadW5qc1hjeUJDN2RseDBMZGZOUzdMWDdMUnFLNk5mSDByb09TNkV6dEJCTzNXQUVaanBnU29xazB2dm1FYVdibVZsSnNn",
+   "title": "74Software affiche une croissance au troisième trimestre 2026 portée par les souscriptions d’Axway et SBS",
+   "source": "ABC Bourse",
+   "published": "2026-10-29T07:00:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmFKYlVvVFp4NkxPY0diemZYd1ZUZ0ZaeGFRZnREWVdOU0h6RUlBNzM3ZmN1clhMLXpTbmdJcFhfbl9MWnJCYU5qSkR2VkxfWmUyY1V6VHpwX2V6eTc0WHVRV1VfMXVhai1lODBvV0lCenkzczNYaVFadW5qc1hjeUJDN2RseDBMZGZOUzdMWDdMUnFLNk5mSDByb09TNkV6dEJCTzNXQUVaanBnU29xazB2dm1FYVdibVZsSnNn?oc=5",
    "brands": [
     "SBS"
    ],
@@ -470,24 +516,6 @@
    "regions": []
   },
   {
-   "id": "CBMiyAFBVV95cUxObm41RXhKYnhFS2dDc3hGdzJxaldqMWkybWozdG5SYjNLUFhQSTNrclNXZjN6SWFRenc2RTBibm5BVVlnMFRZaFVpVVF0aWVrSkZnQXMwYjl5Wk9VS2ZzTHZMZ1JJUjhZbC1ya29MU3ZBMlhDN2VWQkhyWW1JYmc2T3RmX1BzVWtPRFphR0UxMFJPM0hETWZScDZpbWd0elkxSU5YT1psZ2xscVVsUnlNc1FxQ0JKSUNzc3ZpeGVfb2UtaWZLeTFabQ",
-   "title": "France's 74Software Q3 revenue rises on subscription growth",
-   "source": "TradingView",
-   "published": "2026-10-29T07:00:00Z",
-   "lang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm41RXhKYnhFS2dDc3hGdzJxaldqMWkybWozdG5SYjNLUFhQSTNrclNXZjN6SWFRenc2RTBibm5BVVlnMFRZaFVpVVF0aWVrSkZnQXMwYjl5Wk9VS2ZzTHZMZ1JJUjhZbC1ya29MU3ZBMlhDN2VWQkhyWW1JYmc2T3RmX1BzVWtPRFphR0UxMFJPM0hETWZScDZpbWd0elkxSU5YT1psZ2xscVVsUnlNc1FxQ0JKSUNzc3ZpeGVfb2UtaWZLeTFabQ?oc=5",
-   "brands": [
-    "SBS"
-   ],
-   "first_seen": "2026-11-05T13:14:14Z",
-   "countries": [
-    "France"
-   ],
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
    "id": "CBMiqAFBVV95cUxPMGlnb0hwQm14V1Q3MXlqZEhodllReEpqUFVjdEI2RDcweXBENTBMSnhGSVA2dFlBUDdpMTdCaUJCZUp1TWpJQ2dxZC1MMkFFaU1lRUI2cGZFcTRyT2tCbDQ4ZFhXaTdfUU9Uejl4Y0NCa1pkMlZWWFhiVGV5MVNsbGRkT1d1ZUMwNDBuRVY2cUJCQ2dvUDNKNVp5alFFaFoyTTZYOUFTbjU",
    "title": "74Software Q3 Revenue EUR 183.9 Mln",
    "source": "TradingView",
@@ -516,6 +544,24 @@
    "regions": []
   },
   {
+   "id": "CBMixwFBVV95cUxNRXM3UjM5UWc5RGNvMWF6V1h5RTdrTFFyZFdxWDF5aDFjTWRrQkNWSmxSYmFjUy1INFRTdG5LdHVWamZRUWVRQjFTWUpfVFJWSFhHSF92dlI2U1dKWm5aTnFvRmVTbmFnM0wxZ09tN1NhWGVKVk5kLXpXWHNyZ2c2NUtseVlYWmxlNHJjWVR2WkswRTg1a3owRGhVT1pNb2ZVenlKRXhHdGpQWjJYVXVPQnN4MUZMUkZ4S0Z1VFNXR0NvQXo5SXVn",
+   "title": "France's 74Software Q3 revenue rises on subscription growth",
+   "source": "TradingView",
+   "published": "2026-10-28T23:43:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXM3UjM5UWc5RGNvMWF6V1h5RTdrTFFyZFdxWDF5aDFjTWRrQkNWSmxSYmFjUy1INFRTdG5LdHVWamZRUWVRQjFTWUpfVFJWSFhHSF92dlI2U1dKWm5aTnFvRmVTbmFnM0wxZ09tN1NhWGVKVk5kLXpXWHNyZ2c2NUtseVlYWmxlNHJjWVR2WkswRTg1a3owRGhVT1pNb2ZVenlKRXhHdGpQWjJYVXVPQnN4MUZMUkZ4S0Z1VFNXR0NvQXo5SXVn?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
    "id": "CBMipwFBVV95cUxOc201SVBNazJqMnhYdlRMWk13N3RwdkVEZ1FHU0hrZ2JNMTJVLW9SQjNaeElKTjVUV09PejVjWkR0b3lZanRXNDdtX0trbUNBb0IzVk5TcHl4Z3BJc2E4RVAzWG81VnNab3FnbnFKLTZwc3E1YXNEcVBYMk8ya2lJZ0E1ZUdQZjlMd2p5N1lMa1FLOHFDUU1SM3NpLWVOdGdJUDFWZ3dpZw",
    "title": "74Software Q3 Revenue EUR 183.9 Mln",
    "source": "TradingView",
@@ -538,20 +584,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVppaGE1aF9GM2E0NmpUeGtUQXFqdDVJMjlnNkZWbDRqUW40aGtvZC1HSTRfX0ZyRmRxVDNyNEgzeEprR0NTLVpBYmJjbjBldUU3VzF5SGJYMl9zNkQzd096TTJXc1BCcHV4d0xROTQ1eGpCR0pXMmc1QTdxOThPVjB3RXJ4bjJMYU5MdGxkcUpiY2ZQa2M2dnVNYzA0YVBwaDk0?oc=5",
    "brands": [
     "SBS"
-   ],
-   "first_seen": "2026-11-05T13:14:14Z",
-   "countries": [],
-   "regions": []
-  },
-  {
-   "id": "CBMiygFBVV95cUxQUTJwZExjS1dKNUgzTHhhVV9FaFdmTkRFRDk5WkROVUdDT2tHS0NuOFl5cmhvcUpUd3BpWHJTT0tDbVczR0lsWURCZndKcGJ6M2QxdG1CZ0pVTXBwdlRyeVZvNl9RUWdLN1pGUW53MlBjQkx4ZGlUbm1jY25uZHJnYXpoNnNHc2p6ZzdBQkM2aGozTFFEeHVQS2RPZmdfMWkwLXhOelR1alhnSXV0bm9jSGkxaHgyQnB3MFVjSXE1ZXE1MDh0aEJYU1NR0gHPAUFVX3lxTFAxZGZmT2JtajlqcFBXNl9weXhkYTFBT19PQkJfNGxGOVVmUHNQRXdVLXZkVS1IMVNzUGpuM1VRU2U5NzFxYkcyMUcwSkdqOU1lWnlXTzV5d0JZbkRWRWw1NWM4dFl1cW5JTzhNQlhOdVZTZEZLVld1V2pWbWt1MnhRLTlSSm1MZHR1Vy1NZFNYWEJWd2I3OGNwalhiVWVPZ0FfOUhJX2tCajFIT1FZLUNtTGpmam04a3hEeWNOM2MxQ0ZxcF9ubVBmSTc5UTF4UQ",
-   "title": "Temenos (SWX:TEMN) Q3 Earnings Highlight Margin Strength Behind The Loss",
-   "source": "Simply Wall St",
-   "published": "2026-10-28T19:30:07Z",
-   "lang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTJwZExjS1dKNUgzTHhhVV9FaFdmTkRFRDk5WkROVUdDT2tHS0NuOFl5cmhvcUpUd3BpWHJTT0tDbVczR0lsWURCZndKcGJ6M2QxdG1CZ0pVTXBwdlRyeVZvNl9RUWdLN1pGUW53MlBjQkx4ZGlUbm1jY25uZHJnYXpoNnNHc2p6ZzdBQkM2aGozTFFEeHVQS2RPZmdfMWkwLXhOelR1alhnSXV0bm9jSGkxaHgyQnB3MFVjSXE1ZXE1MDh0aEJYU1NR0gHPAUFVX3lxTFAxZGZmT2JtajlqcFBXNl9weXhkYTFBT19PQkJfNGxGOVVmUHNQRXdVLXZkVS1IMVNzUGpuM1VRU2U5NzFxYkcyMUcwSkdqOU1lWnlXTzV5d0JZbkRWRWw1NWM4dFl1cW5JTzhNQlhOdVZTZEZLVld1V2pWbWt1MnhRLTlSSm1MZHR1Vy1NZFNYWEJWd2I3OGNwalhiVWVPZ0FfOUhJX2tCajFIT1FZLUNtTGpmam04a3hEeWNOM2MxQ0ZxcF9ubVBmSTc5UTF4UQ?oc=5",
-   "brands": [
-    "Temenos"
    ],
    "first_seen": "2026-11-05T13:14:14Z",
    "countries": [],
@@ -602,6 +634,38 @@
    "regions": [
     "Europe"
    ]
+  },
+  {
+   "id": "CBMiyAFBVV95cUxObm41RXhKYnhFS2dDc3hGdzJxaldqMWkybWozdG5SYjNLUFhQSTNrclNXZjN6SWFRenc2RTBibm5BVVlnMFRZaFVpVVF0aWVrSkZnQXMwYjl5Wk9VS2ZzTHZMZ1JJUjhZbC1ya29MU3ZBMlhDN2VWQkhyWW1JYmc2T3RmX1BzVWtPRFphR0UxMFJPM0hETWZScDZpbWd0elkxSU5YT1psZ2xscVVsUnlNc1FxQ0JKSUNzc3ZpeGVfb2UtaWZLeTFabQ",
+   "title": "France's 74Software Q3 revenue rises on subscription growth",
+   "source": "TradingView",
+   "published": "2026-10-28T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm41RXhKYnhFS2dDc3hGdzJxaldqMWkybWozdG5SYjNLUFhQSTNrclNXZjN6SWFRenc2RTBibm5BVVlnMFRZaFVpVVF0aWVrSkZnQXMwYjl5Wk9VS2ZzTHZMZ1JJUjhZbC1ya29MU3ZBMlhDN2VWQkhyWW1JYmc2T3RmX1BzVWtPRFphR0UxMFJPM0hETWZScDZpbWd0elkxSU5YT1psZ2xscVVsUnlNc1FxQ0JKSUNzc3ZpeGVfb2UtaWZLeTFabQ?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-05T13:14:14Z",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "id": "CBMiygFBVV95cUxQUTJwZExjS1dKNUgzTHhhVV9FaFdmTkRFRDk5WkROVUdDT2tHS0NuOFl5cmhvcUpUd3BpWHJTT0tDbVczR0lsWURCZndKcGJ6M2QxdG1CZ0pVTXBwdlRyeVZvNl9RUWdLN1pGUW53MlBjQkx4ZGlUbm1jY25uZHJnYXpoNnNHc2p6ZzdBQkM2aGozTFFEeHVQS2RPZmdfMWkwLXhOelR1alhnSXV0bm9jSGkxaHgyQnB3MFVjSXE1ZXE1MDh0aEJYU1NR0gHPAUFVX3lxTFAxZGZmT2JtajlqcFBXNl9weXhkYTFBT19PQkJfNGxGOVVmUHNQRXdVLXZkVS1IMVNzUGpuM1VRU2U5NzFxYkcyMUcwSkdqOU1lWnlXTzV5d0JZbkRWRWw1NWM4dFl1cW5JTzhNQlhOdVZTZEZLVld1V2pWbWt1MnhRLTlSSm1MZHR1Vy1NZFNYWEJWd2I3OGNwalhiVWVPZ0FfOUhJX2tCajFIT1FZLUNtTGpmam04a3hEeWNOM2MxQ0ZxcF9ubVBmSTc5UTF4UQ",
+   "title": "Temenos (SWX:TEMN) Q3 Earnings Highlight Margin Strength Behind The Loss",
+   "source": "Simply Wall St",
+   "published": "2026-10-28T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTJwZExjS1dKNUgzTHhhVV9FaFdmTkRFRDk5WkROVUdDT2tHS0NuOFl5cmhvcUpUd3BpWHJTT0tDbVczR0lsWURCZndKcGJ6M2QxdG1CZ0pVTXBwdlRyeVZvNl9RUWdLN1pGUW53MlBjQkx4ZGlUbm1jY25uZHJnYXpoNnNHc2p6ZzdBQkM2aGozTFFEeHVQS2RPZmdfMWkwLXhOelR1alhnSXV0bm9jSGkxaHgyQnB3MFVjSXE1ZXE1MDh0aEJYU1NR0gHPAUFVX3lxTFAxZGZmT2JtajlqcFBXNl9weXhkYTFBT19PQkJfNGxGOVVmUHNQRXdVLXZkVS1IMVNzUGpuM1VRU2U5NzFxYkcyMUcwSkdqOU1lWnlXTzV5d0JZbkRWRWw1NWM4dFl1cW5JTzhNQlhOdVZTZEZLVld1V2pWbWt1MnhRLTlSSm1MZHR1Vy1NZFNYWEJWd2I3OGNwalhiVWVPZ0FfOUhJX2tCajFIT1FZLUNtTGpmam04a3hEeWNOM2MxQ0ZxcF9ubVBmSTc5UTF4UQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-05T13:14:14Z",
+   "countries": [],
+   "regions": []
   },
   {
    "id": "CBMid0FVX3lxTE9fNjFPTmU1MGR6YTZSWDFQQUhTbXlvdFo2NVhwRnduMFUtbG9KVWlVNHZTSU5YQVdjb0NtUVJBVDJuQzRFM3FpZlhFZ3ZpQnlpZmVLX2JuRW93bUdTeXlPbVRYd3d1WHV2QWlvOWJBb2FhQkpCRnNJ",
@@ -720,6 +784,20 @@
     "Temenos"
    ],
    "first_seen": "2026-11-08T11:57:12Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMilAFBVV95cUxPRWJBdFluM1hYZ3ZsOEhTQWk1dlRmUnJOQWh6amRTWE5ObDN0U2VTTnk5NzRBMDBoLWlTZ3l0ZFlEY1cxekR3Q3Y1aDk5bzVVeEJhWko5ZUR0ZG50WmFCeTRyS19sTTJiSVFhZGVqVDM4WEdQVjVQNUo1MUctMDdoN2NpVThDQUpyZi1YM3BkQThwUGhC",
+   "title": "Temenos raises full-year profit outlook on “continued momentum”",
+   "source": "KELO-AM",
+   "published": "2026-10-27T18:06:09Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWJBdFluM1hYZ3ZsOEhTQWk1dlRmUnJOQWh6amRTWE5ObDN0U2VTTnk5NzRBMDBoLWlTZ3l0ZFlEY1cxekR3Q3Y1aDk5bzVVeEJhWko5ZUR0ZG50WmFCeTRyS19sTTJiSVFhZGVqVDM4WEdQVjVQNUo1MUctMDdoN2NpVThDQUpyZi1YM3BkQThwUGhC?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
    "countries": [],
    "regions": []
   },
@@ -1277,7 +1355,7 @@
    "id": "CBMiwwFBVV95cUxQV1FybzZobC0xeXZFWFA0ODFoZW5FTjJHMUhBYWRpN3NaQzVzTkxxcGhNWVlLNzNkdG9tYmRzRnEyZ1BGX0RmZUNoMi1jdEh6dmdpaTFYc1AtUk5DbEJ0dUlVc0Q1c0JfaFFpMU5iMkh6QlpJc0Zkd1FfdlNoOWZtZWE5cURZUzAxZzRRZjY4aFNRZmJEZkFrWHhfVWlhX3VxLWRkeC0xTHhydzcxS3JDUDBGVC11WmlHV3Bhai1Fd1dVd2s",
    "title": "Tech Mahindra Acquires Finastra Cash Management Suite to Expand Banking Software Portfolio",
    "source": "Konsulteer",
-   "published": "2026-10-23T14:21:01Z",
+   "published": "2026-10-23T07:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1FybzZobC0xeXZFWFA0ODFoZW5FTjJHMUhBYWRpN3NaQzVzTkxxcGhNWVlLNzNkdG9tYmRzRnEyZ1BGX0RmZUNoMi1jdEh6dmdpaTFYc1AtUk5DbEJ0dUlVc0Q1c0JfaFFpMU5iMkh6QlpJc0Zkd1FfdlNoOWZtZWE5cURZUzAxZzRRZjY4aFNRZmJEZkFrWHhfVWlhX3VxLWRkeC0xTHhydzcxS3JDUDBGVC11WmlHV3Bhai1Fd1dVd2s?oc=5",
    "brands": [
@@ -2030,6 +2108,20 @@
     "SBS"
    ],
    "first_seen": "2026-11-07T11:44:59Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMijwFBVV95cUxQNjRLVXpYOURwRWxUcWZnZFJwWjRNbDAzTkUzdlhGM0tBcHozbzc3LUF6ZUdoaHV6dmE0R01nRHJMcUNhSlRscVpBTUFsSllDVUtma1h1c1Z2Q1ZLcTk5elp2WlFtMXp0V3RxX0ZjaDh3RlVHU2RlNzJORFFaRjFsaW12TFFMU1RZLWt3eTl1WQ",
+   "title": "Sibos 2026: Temenos' Mick Fennell on Tokenisation 3.0 and the Rise of \"TradTok\" Banking",
+   "source": "FF News",
+   "published": "2026-10-14T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjRLVXpYOURwRWxUcWZnZFJwWjRNbDAzTkUzdlhGM0tBcHozbzc3LUF6ZUdoaHV6dmE0R01nRHJMcUNhSlRscVpBTUFsSllDVUtma1h1c1Z2Q1ZLcTk5elp2WlFtMXp0V3RxX0ZjaDh3RlVHU2RlNzJORFFaRjFsaW12TFFMU1RZLWt3eTl1WQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-11T12:44:46Z",
    "countries": [],
    "regions": []
   },
