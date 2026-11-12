@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:44:46Z",
+ "updated": "2026-11-12T13:47:47Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,34 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMizgFBVV95cUxPR3BwRi1FVldZWkd0cWduU21IMWItZHp3Y0dRb3llQXYwb1lpTXU4Nlk3R284bVg2WjFYY3FYcVlZSWQ3VHFadDNwdjMyOW1CQ3Z2SEMtWUZlWWZwS29maTFWaWVRYWlMbXRubXh5U0lYWUJUcDdRTTVJeXhUeHFpSXN4U1RFVFVxRTJyMVJfVmFQU3F4c3NwMmJxWTc0X0lXMTFaZkZScGlWd3lCNjdoUHluWFpzUFMtOU5vUnBJZHJaaTh5WW9GZHNpS21PUQ",
+   "title": "SBS boss Eric Bierry says AI agents will shrink bank core systems to a ‘fortress’ ledger",
+   "source": "Scottish Financial News",
+   "published": "2026-11-12T10:29:41Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3BwRi1FVldZWkd0cWduU21IMWItZHp3Y0dRb3llQXYwb1lpTXU4Nlk3R284bVg2WjFYY3FYcVlZSWQ3VHFadDNwdjMyOW1CQ3Z2SEMtWUZlWWZwS29maTFWaWVRYWlMbXRubXh5U0lYWUJUcDdRTTVJeXhUeHFpSXN4U1RFVFVxRTJyMVJfVmFQU3F4c3NwMmJxWTc0X0lXMTFaZkZScGlWd3lCNjdoUHluWFpzUFMtOU5vUnBJZHJaaTh5WW9GZHNpS21PUQ?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-12T13:47:47Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiswFBVV95cUxOM3Y0ZzVkWmZvbmh3X0NqV0VXS3ZoVEx2S29nYVZONWJRekh1LW9BbGRYOGJfUDloRS15MEwzMEVkTTJtU3pnX29ROVp6VWYyMWdjM1d4WXRYTHdTZHdQSFNQU2ZBREpMdEhNeGNVNXUyaFhLeXNHTnhBNzF1ems1NEFRdHlCZXV6OFBXUGhPVmJVbUhoazU3eER2TjVpVW44M2dvMXNjWGRmZVYzb1IyaWlVWQ",
+   "title": "Backbase 2027 Predictions: Why AI Will Force Banks to Rebuild Their Operating Models",
+   "source": "FF News",
+   "published": "2026-11-12T06:56:07Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3Y0ZzVkWmZvbmh3X0NqV0VXS3ZoVEx2S29nYVZONWJRekh1LW9BbGRYOGJfUDloRS15MEwzMEVkTTJtU3pnX29ROVp6VWYyMWdjM1d4WXRYTHdTZHdQSFNQU2ZBREpMdEhNeGNVNXUyaFhLeXNHTnhBNzF1ems1NEFRdHlCZXV6OFBXUGhPVmJVbUhoazU3eER2TjVpVW44M2dvMXNjWGRmZVYzb1IyaWlVWQ?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-12T13:47:47Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMihAFBVV95cUxOcUJWaFcxbFlzY0NUc3BkeldaQjkxT01QcklYaWtGRU40Z0JXd2NLNXBTcXhMTnNHcW12cU5MaFBVT2NQeEpoSjQydVp0djYzS01FRldmTk45N3BtVHlFQVNlSzVxa0dyYUNKUlE2YnVkSWlDX2NyeTAtV09QX1JEMFNvdVU",
    "title": "Backbase Names Two CTOs to Lead Digital, Agentic Banking",
@@ -46,6 +74,20 @@
     "Backbase"
    ],
    "first_seen": "2026-11-10T13:29:24Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMidkFVX3lxTE95bi03U2xVeTRlUHF4bTBlUlpJa2lvMm4xWTJfTm9MSklUYnNOUGZsbnRfU2IybGN3TmRDWWl1aElTb3ZYTUZJQ3BnOXJHNThCaDJRS21ILV9ueFlGOThzZ3RGMm9GUTZhVzlOR0NkQU4zQjg3Tmc",
+   "title": "Temenos, a Global Partner in Banking’s Digital Transformation",
+   "source": "Daily Bonik Barta",
+   "published": "2026-11-10T08:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95bi03U2xVeTRlUHF4bTBlUlpJa2lvMm4xWTJfTm9MSklUYnNOUGZsbnRfU2IybGN3TmRDWWl1aElTb3ZYTUZJQ3BnOXJHNThCaDJRS21ILV9ueFlGOThzZ3RGMm9GUTZhVzlOR0NkQU4zQjg3Tmc?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-12T13:47:47Z",
    "countries": [],
    "regions": []
   },
@@ -301,7 +343,7 @@
    "id": "CBMi3wFBVV95cUxQNlRrdnlOX2xfd3g3S29aZWE3TXFrRXhZSEI4cHp4ak41anhiUWpPT2paQVJKc0hLN3Z6QTU0R0VMUEVkaEp3aTVwN0w4c2tRZEVIQ2pfdHM3M3BvMGx4VWZ5S3RQODVfZWdDZUYxb1FjcDhseDlZX2E2Qk84aTdmZzZWeEhlM1pjVzc0OWxiVE1FZlBfSDQwWDhKMnp4RUNPSXJCaGpIUlJaNG95anRaVTlWTFFKNzNKTnprMTdtenotTklxa05mbTMyOGRxZG5reVRwVlR6MVNnUHZ5V0NV",
    "title": "Wahda Bank partners with Backbase to bring Banking OS to businesses and retail customers across Libya",
    "source": "African Business",
-   "published": "2026-11-03T10:00:23Z",
+   "published": "2026-11-03T12:30:54Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNlRrdnlOX2xfd3g3S29aZWE3TXFrRXhZSEI4cHp4ak41anhiUWpPT2paQVJKc0hLN3Z6QTU0R0VMUEVkaEp3aTVwN0w4c2tRZEVIQ2pfdHM3M3BvMGx4VWZ5S3RQODVfZWdDZUYxb1FjcDhseDlZX2E2Qk84aTdmZzZWeEhlM1pjVzc0OWxiVE1FZlBfSDQwWDhKMnp4RUNPSXJCaGpIUlJaNG95anRaVTlWTFFKNzNKTnprMTdtenotTklxa05mbTMyOGRxZG5reVRwVlR6MVNnUHZ5V0NV?oc=5",
    "brands": [
@@ -351,25 +393,11 @@
    "id": "CBMiygFBVV95cUxNbEZhak9kV2hfMTg4UTdYSUpvZUN3ellFdXNSQXpVMGhYcFM4Z1NDOXl5OHlGX2ZjXzRWR2pCWGtaaXV6N3lVUEtiSXpweUFESG1CQ3djM1Bsc2paZHpleklBV1pJeXJmUGxHSGZlVUhQS1prRmRTa3FOZWFzaEp1dTFqUTN5WU56SVVTaGdqdnByS2JDYjhaYTZqamo3VE5qc0U4SDJ0M3RiNTM2ZTlpMm1RdWdPRjFKeU1xNjVUYVhCSXVqWk5pLWZn0gHPAUFVX3lxTE5LYXFJdjllX01GakVSNnBCelNKd1RhVFF2RnR3d2VtZ2lYYS1jYjVUanZhLTBVZk45NUpPREtCUGV5YzQyTVFFeGI3ZDliUmVEWFhuUlVrQzFHUlR5MDFBSllacFZzdXZGb2R2VUJfc2dGMmxSNk5odVlocFNjckE5WUduakVDNTl6Y0Q3TFh1Z3VWSy1NQkRwUER1X1BuVWFtLTRpYlNBUGEwNlE4WVNpSUgzYjNnS2VoMm83cWVYVmtWRHpfWDJ5c1JkRC14bw",
    "title": "Results: Temenos AG Exceeded Expectations And The Consensus Has Updated Its Estimates",
    "source": "Simply Wall St",
-   "published": "2026-10-30T04:38:34Z",
+   "published": "2026-10-30T07:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEZhak9kV2hfMTg4UTdYSUpvZUN3ellFdXNSQXpVMGhYcFM4Z1NDOXl5OHlGX2ZjXzRWR2pCWGtaaXV6N3lVUEtiSXpweUFESG1CQ3djM1Bsc2paZHpleklBV1pJeXJmUGxHSGZlVUhQS1prRmRTa3FOZWFzaEp1dTFqUTN5WU56SVVTaGdqdnByS2JDYjhaYTZqamo3VE5qc0U4SDJ0M3RiNTM2ZTlpMm1RdWdPRjFKeU1xNjVUYVhCSXVqWk5pLWZn0gHPAUFVX3lxTE5LYXFJdjllX01GakVSNnBCelNKd1RhVFF2RnR3d2VtZ2lYYS1jYjVUanZhLTBVZk45NUpPREtCUGV5YzQyTVFFeGI3ZDliUmVEWFhuUlVrQzFHUlR5MDFBSllacFZzdXZGb2R2VUJfc2dGMmxSNk5odVlocFNjckE5WUduakVDNTl6Y0Q3TFh1Z3VWSy1NQkRwUER1X1BuVWFtLTRpYlNBUGEwNlE4WVNpSUgzYjNnS2VoMm83cWVYVmtWRHpfWDJ5c1JkRC14bw?oc=5",
    "brands": [
     "Temenos"
-   ],
-   "first_seen": "2026-11-05T13:14:14Z",
-   "countries": [],
-   "regions": []
-  },
-  {
-   "id": "CBMivwFBVV95cUxOX1N5bGxOUXFFdjR1Y2RXVEhJZ3hPUGtyQWRMT1IzVWVRbXZ0SGNWaTVIX3F2cmZILVNHb2E1ZzIyV3huaGJFd1JTQi1tbGtJQjBVUzZHX1BuT1BQVFNPZEozZURKc01RTmdVdGxiMWFMZW90VDE5V0wzTTJ3cmZ3a0Nkdjd2YUpXemRkSGwzQTJxMWVwV1FnTHgxNmpXZzlFV2NpYVg1ZUFXbDBlVktGOEc1MmRQXzVvTlRKREY0QQ",
-   "title": "Finastra CTO Mike Stawchansky says some AI scams can’t be detected",
-   "source": "TheStreet",
-   "published": "2026-10-29T20:01:26Z",
-   "lang": "en",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1N5bGxOUXFFdjR1Y2RXVEhJZ3hPUGtyQWRMT1IzVWVRbXZ0SGNWaTVIX3F2cmZILVNHb2E1ZzIyV3huaGJFd1JTQi1tbGtJQjBVUzZHX1BuT1BQVFNPZEozZURKc01RTmdVdGxiMWFMZW90VDE5V0wzTTJ3cmZ3a0Nkdjd2YUpXemRkSGwzQTJxMWVwV1FnTHgxNmpXZzlFV2NpYVg1ZUFXbDBlVktGOEc1MmRQXzVvTlRKREY0QQ?oc=5",
-   "brands": [
-    "Finastra"
    ],
    "first_seen": "2026-11-05T13:14:14Z",
    "countries": [],
@@ -384,6 +412,20 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0JEamd6RUllU3gwQlNXa3c0WkVjb1JqZVlRdkxtZ0oxWTQ2a3lUYU5GNlg2U2ctRUVtMzB0cDZFX3liS1BHSDJBcERWcG4wU2d0U1Rlb0lZei05QW5ESm5DNDAtREVveDdZMVczZmlIbjV1VDJLNEozYjhfS0hWbGlxRlQtSlROclMtblZqWkNPX3NzVGJSU2NQX1JOdmxHR0F3V0hXT1QtTjRFOHpjcjdnVzFTWTlESncwX25jd2dEVkZK?oc=5",
    "brands": [
     "SBS"
+   ],
+   "first_seen": "2026-11-05T13:14:14Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMivwFBVV95cUxOX1N5bGxOUXFFdjR1Y2RXVEhJZ3hPUGtyQWRMT1IzVWVRbXZ0SGNWaTVIX3F2cmZILVNHb2E1ZzIyV3huaGJFd1JTQi1tbGtJQjBVUzZHX1BuT1BQVFNPZEozZURKc01RTmdVdGxiMWFMZW90VDE5V0wzTTJ3cmZ3a0Nkdjd2YUpXemRkSGwzQTJxMWVwV1FnTHgxNmpXZzlFV2NpYVg1ZUFXbDBlVktGOEc1MmRQXzVvTlRKREY0QQ",
+   "title": "Finastra CTO Mike Stawchansky says some AI scams can’t be detected",
+   "source": "TheStreet",
+   "published": "2026-10-29T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1N5bGxOUXFFdjR1Y2RXVEhJZ3hPUGtyQWRMT1IzVWVRbXZ0SGNWaTVIX3F2cmZILVNHb2E1ZzIyV3huaGJFd1JTQi1tbGtJQjBVUzZHX1BuT1BQVFNPZEozZURKc01RTmdVdGxiMWFMZW90VDE5V0wzTTJ3cmZ3a0Nkdjd2YUpXemRkSGwzQTJxMWVwV1FnTHgxNmpXZzlFV2NpYVg1ZUFXbDBlVktGOEc1MmRQXzVvTlRKREY0QQ?oc=5",
+   "brands": [
+    "Finastra"
    ],
    "first_seen": "2026-11-05T13:14:14Z",
    "countries": [],
@@ -572,6 +614,20 @@
     "SBS"
    ],
    "first_seen": "2026-11-10T13:29:24Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMigAJBVV95cUxOa1J3cS1iVURLOHRrMlJGWENhcUJpbVp3M0tILV8xSV9lRGp5WHl0cUsySWZvdVdQVmwwRklYT25oTXktb2otYV8xb1VZWFB4ZmI2X0Y0LWRjY2ZERkx1OWgyUEV2R1ZyQlo1SlpTY1daVWd0Q3NsejBYbURoSGRTc0tBZ29QOUtkeXhWMHV0czVfN1JUTFlSN2F4Y0ktTGhkb2VzSFoxOTJqQi1HLTVCZ3B6OWlnUnJzbUpjTC1zcm1NN0ZvRHZucnlzc2ZXd0Z1dERUODNuQjlaVks3cDVod09UNWJ5YmlaT2F0bTJHYWNSWVZUekhGcTl5eWNFX3pG",
+   "title": "74Software: Subscription growth drove Q3 expansion as full-year objectives were reaffirmed",
+   "source": "TradingView",
+   "published": "2026-10-28T23:33:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa1J3cS1iVURLOHRrMlJGWENhcUJpbVp3M0tILV8xSV9lRGp5WHl0cUsySWZvdVdQVmwwRklYT25oTXktb2otYV8xb1VZWFB4ZmI2X0Y0LWRjY2ZERkx1OWgyUEV2R1ZyQlo1SlpTY1daVWd0Q3NsejBYbURoSGRTc0tBZ29QOUtkeXhWMHV0czVfN1JUTFlSN2F4Y0ktTGhkb2VzSFoxOTJqQi1HLTVCZ3B6OWlnUnJzbUpjTC1zcm1NN0ZvRHZucnlzc2ZXd0Z1dERUODNuQjlaVks3cDVod09UNWJ5YmlaT2F0bTJHYWNSWVZUekhGcTl5eWNFX3pG?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-12T13:47:47Z",
    "countries": [],
    "regions": []
   },
