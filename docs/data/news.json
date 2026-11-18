@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:26:41Z",
+ "updated": "2026-11-18T14:00:23Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,118 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMiuAFBVV95cUxOMHZ2MDRnT3JOZ3FwWS1Ud3FROG0wUjEwdnoybEF5RHRmT2V1SEVOSXJwdTNDMUxnM0R4ZjFOYmo4SmJUWGEzajVWT3VETTBJUFFYajJHMDJPWnF3WjN5cDlxMndiSzhGbFhRMk9zWHJodkdfaXBTV1VCUW5GMHp0WFhuZTFIVTBzbUZka2xqdmtDb0ZfUW81ajZpWnk1anFjTThHd2tRMWdQTmhDckdpV3RCaXNaWURr",
+   "title": "Charity Bank migrates to Temenos SaaS from Apak Group's Aurius",
+   "source": "FinTech Futures",
+   "published": "2026-11-18T13:08:54Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHZ2MDRnT3JOZ3FwWS1Ud3FROG0wUjEwdnoybEF5RHRmT2V1SEVOSXJwdTNDMUxnM0R4ZjFOYmo4SmJUWGEzajVWT3VETTBJUFFYajJHMDJPWnF3WjN5cDlxMndiSzhGbFhRMk9zWHJodkdfaXBTV1VCUW5GMHp0WFhuZTFIVTBzbUZka2xqdmtDb0ZfUW81ajZpWnk1anFjTThHd2tRMWdQTmhDckdpV3RCaXNaWURr?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMitAFBVV95cUxQcFpOVEF4ZklDenI3MEZqVTVFMmFUVjFyaFVNSGEtdG9IaE5lSVh5WFRZTm5rM0pjVkdLbEx0eGhpamZaMkRMN3ZsMUQ2c2lxNWdCUWZPVzBjY2EzRkdHb3RGdm5BdEF5Q3lPakNpWXJtMktLMWJTV1c0M3BDWHBWVEk0eHFKNGk4MW9FdjFvT1o2SXo3OEUwTEljV2xnRTBHOXVKNGo2aFRlQ3RzYmcxNzFLdWs",
+   "title": "Schroders taps Backbase to transform client and adviser digital experiences",
+   "source": "IBS Intelligence",
+   "published": "2026-11-18T09:54:59Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFpOVEF4ZklDenI3MEZqVTVFMmFUVjFyaFVNSGEtdG9IaE5lSVh5WFRZTm5rM0pjVkdLbEx0eGhpamZaMkRMN3ZsMUQ2c2lxNWdCUWZPVzBjY2EzRkdHb3RGdm5BdEF5Q3lPakNpWXJtMktLMWJTV1c0M3BDWHBWVEk0eHFKNGk4MW9FdjFvT1o2SXo3OEUwTEljV2xnRTBHOXVKNGo2aFRlQ3RzYmcxNzFLdWs?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMikAFBVV95cUxPTk5hM2l3dzVJYTl6MF9WdFIzS3F3TnBrRW9CbHI4Rkw3clF0VDdudTVfbEQtaFBnQ3Y1elB5M1dUTWxJNmZQUXJCaGJrT293ekU2QW9nN05ObXhnY0l5UE9ibjFlVHR0aHE4Q0pNRnZRZE9FT0c4NmNnWTc2S1ItV2hENWdlREJGWUFrTHp1TlE",
+   "title": "Schroders Wealth Management Selects Backbase for Digital Transformation",
+   "source": "Fintech Singapore",
+   "published": "2026-11-18T09:20:04Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTk5hM2l3dzVJYTl6MF9WdFIzS3F3TnBrRW9CbHI4Rkw3clF0VDdudTVfbEQtaFBnQ3Y1elB5M1dUTWxJNmZQUXJCaGJrT293ekU2QW9nN05ObXhnY0l5UE9ibjFlVHR0aHE4Q0pNRnZRZE9FT0c4NmNnWTc2S1ItV2hENWdlREJGWUFrTHp1TlE?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiswFBVV95cUxPT05hT0hFdlZySjhzaFRZMU1zQTVPWnFQRWxyMlJOLUxUdDQza3JHNzk2dVdvcWNWcnB1X2p5ZmhLbXVVc01HRmdJWmdPbE5lUTE2UFBZaXJDX0QxOUxhOHVYSm1XVEdTNHdzSFhrRm9JNl84Z1YyTlBwRzM4MF9BWURCdTgxRVdQWWNMNzJ3SVhqWXY3Mk1SZU1QNnJOQjhmeFFDNTNOMkRmdjlDMWVxWmFaUQ",
+   "title": "Finastra Says Banks Should Modernize Payments One Step at a Time",
+   "source": "PYMNTS.com",
+   "published": "2026-11-18T09:04:07Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT05hT0hFdlZySjhzaFRZMU1zQTVPWnFQRWxyMlJOLUxUdDQza3JHNzk2dVdvcWNWcnB1X2p5ZmhLbXVVc01HRmdJWmdPbE5lUTE2UFBZaXJDX0QxOUxhOHVYSm1XVEdTNHdzSFhrRm9JNl84Z1YyTlBwRzM4MF9BWURCdTgxRVdQWWNMNzJ3SVhqWXY3Mk1SZU1QNnJOQjhmeFFDNTNOMkRmdjlDMWVxWmFaUQ?oc=5",
+   "brands": [
+    "Finastra"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMinwFBVV95cUxNdWN5YTl1NWNSR3NzUGMtSVo0VUhCZGtPZWdXQ1dNeWE1TmRjZE9ySFdtcjM5cll0VnVRNlpxSjJqOGFyNmR3aHJFUzUyMl81cHM4SW5hZURDM2ZJWE5hVlZ4OTYtVGw3Tm54U3BVSHpSSUJwVVgwVlRqODFxaGMzcTVFZGNrVVc0eWowUV90elBmN3Z6dHlVNmd4Smt3ODg",
+   "title": "Charity Bank selects Temenos SaaS to modernise core banking",
+   "source": "IBS Intelligence",
+   "published": "2026-11-18T08:13:24Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWN5YTl1NWNSR3NzUGMtSVo0VUhCZGtPZWdXQ1dNeWE1TmRjZE9ySFdtcjM5cll0VnVRNlpxSjJqOGFyNmR3aHJFUzUyMl81cHM4SW5hZURDM2ZJWE5hVlZ4OTYtVGw3Tm54U3BVSHpSSUJwVVgwVlRqODFxaGMzcTVFZGNrVVc0eWowUV90elBmN3Z6dHlVNmd4Smt3ODg?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMijAFBVV95cUxOTHNDaWRWTkVIMzJPVEdpNGJEcDc1MXpQNFAzSVRjamRLdXN5bkNwZ3d0dk9ROE9DeFpQVFlFdDR5N3Z3THhSVHVNTWozZTE4UjNhRkxBT0VFNDIyV01uMHd0QVN0MjdNV3oxU1NaM3UycmFsd01rUU0xN29xdzBmWGNOT2ZGOFhmbGIyMA",
+   "title": "Backbase appoints CTOs for digital and agentic banking",
+   "source": "The Digital Banker",
+   "published": "2026-11-18T05:38:28Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNDaWRWTkVIMzJPVEdpNGJEcDc1MXpQNFAzSVRjamRLdXN5bkNwZ3d0dk9ROE9DeFpQVFlFdDR5N3Z3THhSVHVNTWozZTE4UjNhRkxBT0VFNDIyV01uMHd0QVN0MjdNV3oxU1NaM3UycmFsd01rUU0xN29xdzBmWGNOT2ZGOFhmbGIyMA?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMilwFBVV95cUxQckhDUERKTDdBbS1HMGo4MVQxcWJCa0lXMWpYWnp4VWFHbjFOTjBCS3JjS0xmRlJQaTJLdEoxTFVaSFQzZmZ4UUZtUy16UGlyTThDMEx4LU95cU95Yl90b0FYYXR3T2YxaFRSYnF1c3REYkw2elRfQnhFNVBzWmZDVkZjNXRkN0FCSm1hYkozMUVDRkxxQmp3",
+   "title": "Backbase Appoints Dual CTOs to Lead Digital and Agentic Banking Strategy",
+   "source": "FF News",
+   "published": "2026-11-17T16:07:43Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckhDUERKTDdBbS1HMGo4MVQxcWJCa0lXMWpYWnp4VWFHbjFOTjBCS3JjS0xmRlJQaTJLdEoxTFVaSFQzZmZ4UUZtUy16UGlyTThDMEx4LU95cU95Yl90b0FYYXR3T2YxaFRSYnF1c3REYkw2elRfQnhFNVBzWmZDVkZjNXRkN0FCSm1hYkozMUVDRkxxQmp3?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMihwJBVV95cUxPcHNvZ1NHZUstdFR4UktDdmtrZVBIVHBQMGZRcG1rQVZ4X21MeGFDN3VEVmNtRXp1cHFoUmh6bTFZNHBiMm11X0o4SGJaUTJvQXprU0xST2NiVHdsRWxlTnlFT2ZoclRNbkVEc1dyYjFhWExGTlZHeVRGdGItd2JBcVNIMXVBYWVxNkJjQWI2YjR4TEdiV3N0Ty1YdEQ1T1RsSVBZVVg4ZW5rSEx6emNPVGtnZ2F2ZVFGSWx3eGxGdWYxR25jSnYzOWJ3SlkwTW5vT3RSSmJHLWdpZzF1Y2hIdlc3dUs2VnRqaVMxMG91SE9QUGNpY2xtaFYwQVFfeE1XdTFJS3I5cw",
+   "title": "BAC Investors Have Opportunity to Lead Bank of America Corporation Securities Fraud Lawsuit with SBS Law",
+   "source": "GlobeNewswire",
+   "published": "2026-11-17T14:56:26Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcHNvZ1NHZUstdFR4UktDdmtrZVBIVHBQMGZRcG1rQVZ4X21MeGFDN3VEVmNtRXp1cHFoUmh6bTFZNHBiMm11X0o4SGJaUTJvQXprU0xST2NiVHdsRWxlTnlFT2ZoclRNbkVEc1dyYjFhWExGTlZHeVRGdGItd2JBcVNIMXVBYWVxNkJjQWI2YjR4TEdiV3N0Ty1YdEQ1T1RsSVBZVVg4ZW5rSEx6emNPVGtnZ2F2ZVFGSWx3eGxGdWYxR25jSnYzOWJ3SlkwTW5vT3RSSmJHLWdpZzF1Y2hIdlc3dUs2VnRqaVMxMG91SE9QUGNpY2xtaFYwQVFfeE1XdTFJS3I5cw?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMif0FVX3lxTE9DemNIZ25Mb1l5Q3B4UUN4WF9WZXZpR0Q5UzFQVEM3S3Noa0NCbVNPY3IyVjV3TkY5Yy1OQnl5Y3ZkV3ByZTRseW5MYXJFV0hlajh1bUNUeE9HYUpZWmVraWFlUDZNckVtWWNnbjZGSEhNYlNBTnkybzIzUUhGbjg",
    "title": "Beacon Bank goes live with Finastra’s Payments To Go",
@@ -92,6 +204,20 @@
    "regions": []
   },
   {
+   "id": "CBMi8AFBVV95cUxQekRiVlBVMkN0ZzROUDFBLVZJMWp2Sk4xNWk4RWRKTWZ1QjNWTEpPTndONk5aNWt0VktJUXE0LVNoLTVpR1I4eGhydWVXdDA1Z3k3eURURVZpOUJrcktOQnlKR2FUOUh3NjNUNHBOa3QyQklCdE5YZVRLenNnb0c5QnRxdEtWQWZ5RVRRdEpMcDFHRmhhQ01IYVJ1UEotV1haY2hOZ2REWjZnNmVWSkRMX1R6c2ZVY0UtSFBwazRUdng2UEdjd0Rjc0Y2TzNSNG5PbGtPUDJ0WUtFdUVaSmhiRnhfNTdmSW9OZXJuWFRycVY",
+   "title": "Temenos remporte un contrat avec Charity Bank pour moderniser sa plateforme bancaire centrale et de paiements",
+   "source": "Zonebourse Suisse",
+   "published": "2026-11-17T09:05:12Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQekRiVlBVMkN0ZzROUDFBLVZJMWp2Sk4xNWk4RWRKTWZ1QjNWTEpPTndONk5aNWt0VktJUXE0LVNoLTVpR1I4eGhydWVXdDA1Z3k3eURURVZpOUJrcktOQnlKR2FUOUh3NjNUNHBOa3QyQklCdE5YZVRLenNnb0c5QnRxdEtWQWZ5RVRRdEpMcDFHRmhhQ01IYVJ1UEotV1haY2hOZ2REWjZnNmVWSkRMX1R6c2ZVY0UtSFBwazRUdng2UEdjd0Rjc0Y2TzNSNG5PbGtPUDJ0WUtFdUVaSmhiRnhfNTdmSW9OZXJuWFRycVY?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
+   "countries": [],
+   "regions": []
+  },
+  {
    "id": "CBMilgFBVV95cUxNdllYU2FSQnR1MDloZ1hqVUJHYzZkOUJkVF81ZDdUY0YxVmRGdjMxcDJZemQ3Q3RPU3pOSnVXbVNmZ0JmQ2lLN19CdmdxTjNfaFNhcTBEYUFNS0xDY055anBSNkEtdElqNWxnWFlTUnpLSFA3MXRIWHdXUUxiRldlcFczdzVxcnF4akFoS0N5RV92WnptT1E",
    "title": "Temenos gagne un nouveau client en Grande-Bretagne",
    "source": "agefi.com",
@@ -130,6 +256,20 @@
     "Backbase"
    ],
    "first_seen": "2026-11-17T14:26:41Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMivAFBVV95cUxQWDctNktEX2dtaW5FNlVSd2Z4N25TYURQbWJMLXVMYnZ3enJRd3NNcTZYSmZuZVNFSElSMzJjei1WRmRkcEU5OUw4dTFPMV93LVU5cGNlMUZBQ2xzdmtsajVab0dfVkxlemZ3djVPa2VsbmpFRDdRODJPNWVCV3h3SEdFZ1BXT0hfR0ptajNDV3NMSE1qcEtacGtZRjFoNnRoWFB4SW9ES2VMVEV6V2tLWFpESW90RHF1S08tUA",
+   "title": "What’s New In Investments, Funds? – Schroders WM, Backbase, Sokin, Hivemind",
+   "source": "Wealth Briefing",
+   "published": "2026-11-17T07:56:05Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWDctNktEX2dtaW5FNlVSd2Z4N25TYURQbWJMLXVMYnZ3enJRd3NNcTZYSmZuZVNFSElSMzJjei1WRmRkcEU5OUw4dTFPMV93LVU5cGNlMUZBQ2xzdmtsajVab0dfVkxlemZ3djVPa2VsbmpFRDdRODJPNWVCV3h3SEdFZ1BXT0hfR0ptajNDV3NMSE1qcEtacGtZRjFoNnRoWFB4SW9ES2VMVEV6V2tLWFpESW90RHF1S08tUA?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-18T14:00:23Z",
    "countries": [],
    "regions": []
   },
@@ -372,20 +512,6 @@
    "regions": []
   },
   {
-   "id": "CBMisgFBVV95cUxQbmxCYWd2TW44RW45X0dvbUhCMWhuSk5hTFNWbUdQV0dWTjFGdFFJRVlSdUFDX3lNN1VKd2FHaHZLVHNBRkZuaG16NmdncF96V0dGaFp4ZVhvUnNqamF2bWJtVzEyb1NNRVp6Ml9rWE5SeUw2eW95UElNLW5TMWJPeV94SUYzM0RsUXZZSUFfRkhPYV9FVTRZMDEwaFNrQ3BEUi03amVRSTNDSFN2YmJDeUJ3",
-   "title": "Backbase appoints two CTOs to lead digital and agentic banking",
-   "source": "FinTech Futures",
-   "published": "2026-11-10T07:00:30Z",
-   "lang": "en",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmxCYWd2TW44RW45X0dvbUhCMWhuSk5hTFNWbUdQV0dWTjFGdFFJRVlSdUFDX3lNN1VKd2FHaHZLVHNBRkZuaG16NmdncF96V0dGaFp4ZVhvUnNqamF2bWJtVzEyb1NNRVp6Ml9rWE5SeUw2eW95UElNLW5TMWJPeV94SUYzM0RsUXZZSUFfRkhPYV9FVTRZMDEwaFNrQ3BEUi03amVRSTNDSFN2YmJDeUJ3?oc=5",
-   "brands": [
-    "Backbase"
-   ],
-   "first_seen": "2026-11-10T13:29:24Z",
-   "countries": [],
-   "regions": []
-  },
-  {
    "id": "CBMiowFBVV95cUxOMU00aEdUNUhNRjViNHFTd1BCWVQwZ0hGUkp1WEZhVUktcDB5enlmX2VuLXo3V3l1NWNBdmFOOGZTbTk2SGpTNlI5cWVma0RreEhtOTNncHFRVVJ5MUFYMTZGWU9ESk1mWU5qQ3h0RmpBOGJJT2wxS2stWVloTjdyemQ2NHFRdHV3TWhkQVl3eDdmdHh6LTZZVlVkc183eDFHeVZz",
    "title": "Libya's Wahda Bank adopts Backbase for digital banking upgrade",
    "source": "FinTech Futures",
@@ -402,6 +528,20 @@
    "regions": [
     "Middle East & Africa"
    ]
+  },
+  {
+   "id": "CBMisgFBVV95cUxQbmxCYWd2TW44RW45X0dvbUhCMWhuSk5hTFNWbUdQV0dWTjFGdFFJRVlSdUFDX3lNN1VKd2FHaHZLVHNBRkZuaG16NmdncF96V0dGaFp4ZVhvUnNqamF2bWJtVzEyb1NNRVp6Ml9rWE5SeUw2eW95UElNLW5TMWJPeV94SUYzM0RsUXZZSUFfRkhPYV9FVTRZMDEwaFNrQ3BEUi03amVRSTNDSFN2YmJDeUJ3",
+   "title": "Backbase appoints two CTOs to lead digital and agentic banking",
+   "source": "FinTech Futures",
+   "published": "2026-11-09T08:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmxCYWd2TW44RW45X0dvbUhCMWhuSk5hTFNWbUdQV0dWTjFGdFFJRVlSdUFDX3lNN1VKd2FHaHZLVHNBRkZuaG16NmdncF96V0dGaFp4ZVhvUnNqamF2bWJtVzEyb1NNRVp6Ml9rWE5SeUw2eW95UElNLW5TMWJPeV94SUYzM0RsUXZZSUFfRkhPYV9FVTRZMDEwaFNrQ3BEUi03amVRSTNDSFN2YmJDeUJ3?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-10T13:29:24Z",
+   "countries": [],
+   "regions": []
   },
   {
    "id": "CBMingFBVV95cUxOZkU3Q0JVWjl6QXZSdjYtVWY4cVpfTVRTWFpzTDlEQ1gySXNqN09GVmMzYWsyVTg1Ui1EcnBTMGdNbV9VaTJYSjd1TGlhZkhpSzVrSWxrWHVXZWVKLWtPZUhCN1V4by13eEpWSzREMHpudTREckN2aHE3ZUoyaER0N3o1TUdNMWhMcUo0U2ZfM1EzWWpoTlhyN0h0TWdSUQ",
