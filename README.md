@@ -12,11 +12,12 @@ In-house brand monitoring and AI-visibility tracking, built with Claude Code.
 | `docs/feasibility.html` | Feasibility map: which social-listening features we can build ourselves, which are worth it, and which aren't possible |
 | `docs/news.html` | Google News Monitor dashboard: share of voice, daily trend, top publishers and headlines |
 | `docs/youtube.html` | YouTube Monitor dashboard: videos and views per brand, share of voice, weekly trend, top channels and videos |
+| `docs/reddit.html` | Reddit Monitor (pilot): threads per brand, share of voice, top subreddits, regions and thread list |
 | `docs/data/news.json` | Collected headlines (headline, publisher, date, link only), updated daily |
 | `docs/data/youtube.json` | Collected videos (title, channel, date, link, view/like/comment counts), updated daily |
 | `docs/assets/` | Downloads, including the PDF version of the feasibility map |
-| `collector/` | The Google News and YouTube collector scripts, and `brands.json`, which sets the brands, search queries and relevance rules |
-| `.github/workflows/collect-news.yml` | The "Collect data" workflow: runs both collectors every day at 05:17 UTC and commits the new data |
+| `collector/` | The Google News, YouTube and Reddit collector scripts, and `brands.json`, which sets the brands, search queries and relevance rules |
+| `.github/workflows/collect-news.yml` | The "Collect data" workflow: runs all collectors every day at 05:17 UTC and commits the new data |
 
 ## Collectors
 
@@ -37,6 +38,14 @@ The collector searches Google News (English and French) for each brand, keeps he
 - **API key:** a free YouTube Data API v3 key, stored as the Actions secret `YOUTUBE_API_KEY`. To run locally, put `YOUTUBE_API_KEY=...` in a `.env` file at the repo root (git-ignored). Without a key the collector skips quietly.
 - **Quota:** each search costs 100 of the 10,000 free daily units. The current settings use about 1,400 a day.
 
+### Reddit (pilot)
+
+Reddit closed its free feeds and now requires approval and a commercial contract for its API, so `collector/collect_reddit.py` finds Reddit threads through the Brave Search API (`site:reddit.com` queries in the `reddit` section of `brands.json`). Threads must pass the same brand, banking-context and exclude rules as YouTube. Only the thread title, subreddit, date and link are stored: no usernames and no post text.
+
+- **API key:** a Brave Search API key, stored as the Actions secret `BRAVE_API_KEY` (or `BRAVE_API_KEY=...` in `.env` locally). Without a key the collector skips quietly.
+- **Usage:** 6 searches per daily run. Run `python collector/collect_reddit.py --backfill` once to search the past year.
+- **Limits:** only threads the search engine has indexed; dates are approximate; no upvote or comment counts.
+
 ## Roadmap
 
 - [x] **Phase 0: feasibility and workspace.** Feasibility map, team site and repository.
@@ -53,5 +62,5 @@ The collector searches Google News (English and French) for each brand, keeps he
 ## Ground rules: this repository is public
 
 - **No secrets.** API keys and tokens go in GitHub Actions secrets or a local `.env` file (already git-ignored), never in commits.
-- **No personal data.** We store only what publishers make public about their own content: headline or video title, publisher or channel name, date, link and public counts. No comments, commenters, article text or posts by private individuals.
+- **No personal data.** We store only what publishers make public about their own content: headline or video title, publisher or channel name, date, link and public counts. For Reddit, only the thread title, subreddit, date and link. Never usernames, comments, post or article text.
 - **No confidential material.** No customer names, internal figures or anything you wouldn't post publicly.
