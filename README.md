@@ -43,7 +43,7 @@ The collector searches Google News (English and French) for each brand, keeps he
 Reddit closed its free feeds and now requires approval and a commercial contract for its API, so `collector/collect_reddit.py` finds Reddit threads through the Brave Search API (`site:reddit.com` queries in the `reddit` section of `brands.json`). Threads must pass the same brand, banking-context and exclude rules as YouTube. Only the thread title, subreddit, date and link are stored: no usernames and no post text.
 
 - **API key:** a Brave Search API key, stored as the Actions secret `BRAVE_API_KEY` (or `BRAVE_API_KEY=...` in `.env` locally). Without a key the collector skips quietly.
-- **Usage:** 6 searches per daily run. Run `python collector/collect_reddit.py --backfill` once to search the past year.
+- **Usage:** 8 searches per daily run. Run `python collector/collect_reddit.py --backfill` once to search the past year.
 - **Limits:** only threads the search engine has indexed; dates are approximate; no upvote or comment counts.
 
 ## Roadmap

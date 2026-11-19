@@ -22,7 +22,7 @@
       "Senegal": "\\bSenegal|\\bSénégal|\\bDakar",
       "Côte d'Ivoire": "Ivory Coast|Côte d.Ivoire|\\bAbidjan",
       "Libya": "\\bLibya|\\bLibye",
-      "Other Africa": "\\bEgypt|\\bÉgypte|\\bGhana|\\bTanzania|\\bUganda|\\bRwanda|\\bCameroon|\\bCameroun|\\bEthiopia|\\bTunisia|\\bTunisie|\\bAlgeria|\\bAlgérie|\\bZambia|\\bAngola|\\bMozambique|\\bBotswana|\\bNamibia|\\bMauritius|\\bMaurice\\b|\\bEswatini",
+      "Other Africa": "\\bEgypt|\\bÉgypte|\\bGhana|\\bTanzania|\\bUganda|\\bRwanda|\\bCameroon|\\bCameroun|\\bEthiopia|\\bTunisia|\\bTunisie|\\bAlgeria|\\bAlgérie|\\bZambia|\\bAngola|\\bMozambique|\\bBotswana|\\bNamibia|\\bMauritius|\\bMaurice\\b|\\bEswatini|\\bZimbabwe|\\bMalawi|\\bMadagascar",
       "Saudi Arabia": "\\bSaudi|(?-i:\\bKSA\\b)|\\bRiyadh|Arabie saoudite",
       "UAE": "(?-i:\\bUAE\\b)|\\bEmirates|\\bDubai|\\bAbu Dhabi|\\bÉmirats",
       "Other Middle East": "\\bQatar|\\bDoha|\\bKuwait|\\bBahrain|\\bOman\\b|\\bJordan\\b|\\bLebanon|\\bLiban|\\bIsrael|\\bTurkey|\\bTürkiye|\\bTurquie|\\bIraq|\\bPakistan",

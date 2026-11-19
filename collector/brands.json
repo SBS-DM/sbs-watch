@@ -96,23 +96,25 @@
     }
   },
   "reddit": {
-    "_comment": "Reddit threads found through the Brave Search API (site:reddit.com), not Reddit's own API. A thread counts for a brand if its title or search snippet passes the same rules as YouTube: the brand's youtube 'match' regex, the youtube 'context' banking words, and none of the exclude rules. Only the thread title, subreddit, date and link are stored: no usernames, no post text.",
+    "_comment": "Reddit threads found through the Brave Search API (site:reddit.com), not Reddit's own API. A thread counts for a brand if its title or search snippet passes the same rules as YouTube: the brand's youtube 'match' regex, the youtube 'context' banking words, and none of the exclude rules. Only the thread title, subreddit, date and link are stored: no usernames, no post text. Brave matches loosely (Temenos -> Temu, Finastra -> finasteride), so each brand has an exact-match query plus a broader one; the filters remove the noise.",
     "freshness": "pm",
     "retention_days": 365,
     "queries": {
       "SBS": [
         "site:reddit.com \"Sopra Banking\"",
-        "site:reddit.com \"SBS\" \"core banking\"",
-        "site:reddit.com 74Software"
+        "site:reddit.com \"SBS\" \"core banking\""
       ],
       "Temenos": [
-        "site:reddit.com Temenos banking"
+        "site:reddit.com \"Temenos\"",
+        "site:reddit.com \"Temenos\" bank"
       ],
       "Backbase": [
+        "site:reddit.com \"Backbase\"",
         "site:reddit.com Backbase banking"
       ],
       "Finastra": [
-        "site:reddit.com Finastra"
+        "site:reddit.com \"Finastra\"",
+        "site:reddit.com \"Finastra\" bank"
       ]
     }
   }

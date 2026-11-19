@@ -56,6 +56,13 @@ def search(query, key, freshness):
         raise RuntimeError(f"Brave Search returned {error.code}: {error.read()[:200].decode('utf-8', 'replace')}") from None
 
 
+def clean_title(title):
+    """Strip HTML and Brave's 'r/sub on Reddit:' / ': r/sub' decorations from a thread title."""
+    title = re.sub(r"<[^>]+>", "", title)
+    title = re.sub(r"^r/\w+ on Reddit:\s*", "", title)
+    return re.sub(r"\s*:\s*r/\w+\s*$", "", title).strip()
+
+
 def published(result, fallback):
     """Best-effort post date: Brave's page_age when present, else when we first saw it."""
     for field in ("page_age", "age"):
@@ -93,7 +100,7 @@ def main():
                 if not thread:  # user profiles, wiki pages, subreddit front pages
                     continue
                 subreddit, post_id = thread.group(1), thread.group(2).lower()
-                title = re.sub(r"\s*:\s*r/\w+\s*$", "", re.sub(r"<[^>]+>", "", result.get("title", ""))).strip()
+                title = clean_title(result.get("title", ""))
                 text = title + "\n" + re.sub(r"<[^>]+>", "", result.get("description", ""))
                 if not rules[brand](text):
                     dropped += 1
@@ -114,6 +121,7 @@ def main():
     threads = {**stored, **found}
     languages = {e["lang"] for e in config["editions"]}
     for thread in threads.values():
+        thread["title"] = clean_title(thread["title"])
         thread["countries"], thread["regions"] = geography(thread["title"], geo_rules)
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=settings["retention_days"])).strftime("%Y-%m-%dT%H:%M:%SZ")
