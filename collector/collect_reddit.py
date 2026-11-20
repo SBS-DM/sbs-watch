@@ -1,7 +1,7 @@
 """Collect Reddit threads that mention our brand and competitors.
 
 Reddit closed its free feeds and gates its own API behind approval and a
-commercial contract, so this pilot finds threads through the Brave Search API
+commercial contract, so this collector finds threads through the Brave Search API
 (site:reddit.com queries from the "reddit" section of collector/brands.json).
 A thread counts for a brand if its title or search snippet passes the same
 brand, banking-context and exclude rules as YouTube. Results are merged into
