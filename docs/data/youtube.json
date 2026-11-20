@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:28:07Z",
+ "updated": "2026-11-20T13:00:45Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -8,13 +8,70 @@
  ],
  "videos": [
   {
+   "id": "ZBt2eFAwBfA",
+   "title": "خبر استغلال: Hackers Exploit Misconfigured Temenos Banking Platform to Deploy Web Shells… #Shorts",
+   "channel": "Techmla",
+   "channel_id": "UCib609CYKD7kHPqeU7EU4rg",
+   "published": "2026-11-20T10:17:09Z",
+   "lang": "en",
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ZBt2eFAwBfA/mqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=ZBt2eFAwBfA",
+   "brands": [
+    "Temenos"
+   ],
+   "official": false,
+   "first_seen": "2026-11-20T13:00:45Z",
+   "stats_updated": "2026-11-20T13:00:45Z"
+  },
+  {
+   "id": "YYfanZJyslk",
+   "title": "AI Waits For No Bank",
+   "channel": "Provoke Media",
+   "channel_id": "UC-SWmY7HswQ5hI9LiIHJd7Q",
+   "published": "2026-11-19T14:22:54Z",
+   "lang": "en",
+   "views": 16,
+   "likes": 0,
+   "comments": 0,
+   "thumbnail": "https://i.ytimg.com/vi/YYfanZJyslk/mqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=YYfanZJyslk",
+   "brands": [
+    "Backbase"
+   ],
+   "official": false,
+   "first_seen": "2026-11-20T13:00:45Z",
+   "stats_updated": "2026-11-20T13:00:45Z"
+  },
+  {
+   "id": "pAeEhrh2UGs",
+   "title": "AI Waits For No Bank",
+   "channel": "Provoke Media",
+   "channel_id": "UC-SWmY7HswQ5hI9LiIHJd7Q",
+   "published": "2026-11-19T13:52:43Z",
+   "lang": "en",
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "thumbnail": "https://i.ytimg.com/vi/pAeEhrh2UGs/mqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=pAeEhrh2UGs",
+   "brands": [
+    "Backbase"
+   ],
+   "official": false,
+   "first_seen": "2026-11-20T13:00:45Z",
+   "stats_updated": "2026-11-20T13:00:45Z"
+  },
+  {
    "id": "EPNQzoCkGpQ",
    "title": "Finastra: Just Ask. Get Paid.",
    "channel": "Federal Reserve Financial Services",
    "channel_id": "UC_CgxL-TlGQQerk1eQP4RGQ",
    "published": "2026-11-18T19:15:09Z",
    "lang": "en",
-   "views": 4,
+   "views": 7,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/EPNQzoCkGpQ/mqdefault.jpg",
@@ -24,7 +81,26 @@
    ],
    "official": false,
    "first_seen": "2026-11-19T14:28:07Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
+  },
+  {
+   "id": "gIGHlz56hEI",
+   "title": "What Is a Core Banking System? T24 vs Finacle vs Flexcube",
+   "channel": "The AI Banker: DigitallyPrateek",
+   "channel_id": "UC35oEu0aq_Fsia5ap1XCU1Q",
+   "published": "2026-11-18T15:00:10Z",
+   "lang": "en",
+   "views": 28,
+   "likes": 0,
+   "comments": 0,
+   "thumbnail": "https://i.ytimg.com/vi/gIGHlz56hEI/mqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=gIGHlz56hEI",
+   "brands": [
+    "Temenos"
+   ],
+   "official": false,
+   "first_seen": "2026-11-20T13:00:45Z",
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "ZXog_FnIuMA",
@@ -33,7 +109,7 @@
    "channel_id": "UCAHOeohg6idKwKzRfAviaJA",
    "published": "2026-11-17T11:43:16Z",
    "lang": "en",
-   "views": 18,
+   "views": 22,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/ZXog_FnIuMA/mqdefault.jpg",
@@ -43,7 +119,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-17T14:26:46Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "qav9y979kJI",
@@ -62,7 +138,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-16T13:41:20Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "odVgAY9Qygc",
@@ -71,7 +147,7 @@
    "channel_id": "UC-SWmY7HswQ5hI9LiIHJd7Q",
    "published": "2026-11-16T05:00:01Z",
    "lang": "en",
-   "views": 18,
+   "views": 20,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/odVgAY9Qygc/mqdefault.jpg",
@@ -81,7 +157,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-16T13:41:20Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "vrhCpmleJLk",
@@ -100,7 +176,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "uJuUpBNOtOE",
@@ -119,7 +195,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "9NG4iEJvCZY",
@@ -128,7 +204,7 @@
    "channel_id": "UCjm6Nbm2L7Zh847scyEwvyQ",
    "published": "2026-11-03T16:23:16Z",
    "lang": "en",
-   "views": 78,
+   "views": 82,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/9NG4iEJvCZY/mqdefault.jpg",
@@ -138,7 +214,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "0ConH-8EF5k",
@@ -147,7 +223,7 @@
    "channel_id": "UCjm6Nbm2L7Zh847scyEwvyQ",
    "published": "2026-11-03T16:20:14Z",
    "lang": "en",
-   "views": 87,
+   "views": 88,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/0ConH-8EF5k/mqdefault.jpg",
@@ -157,7 +233,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "p7uvTF0ie0A",
@@ -176,7 +252,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "yv8hBOwnc2w",
@@ -195,7 +271,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "bSyfVVugP8A",
@@ -204,7 +280,7 @@
    "channel_id": "UCCYd4nVHNwv1snGb0x9JJZA",
    "published": "2026-10-29T03:50:14Z",
    "lang": "en",
-   "views": 42,
+   "views": 46,
    "likes": 0,
    "comments": 2,
    "thumbnail": "https://i.ytimg.com/vi/bSyfVVugP8A/mqdefault.jpg",
@@ -214,7 +290,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "SG8hgCStb5E",
@@ -233,7 +309,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "T9dme-lLRak",
@@ -252,7 +328,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "VdckIIeDRwI",
@@ -271,7 +347,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "2v6op5GFq14",
@@ -280,7 +356,7 @@
    "channel_id": "UCEHeXk3HQxUFPX54IlLG6Sw",
    "published": "2026-10-24T16:02:34Z",
    "lang": "en",
-   "views": 58,
+   "views": 63,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/2v6op5GFq14/mqdefault.jpg",
@@ -290,7 +366,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "nNyXqQ0qH0s",
@@ -309,7 +385,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "NKFi_7v46As",
@@ -328,7 +404,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "Qzr8xjaOIRg",
@@ -337,7 +413,7 @@
    "channel_id": "UClnv9f4OxAntYzo7R2PcFLA",
    "published": "2026-10-17T12:49:31Z",
    "lang": "en",
-   "views": 421,
+   "views": 423,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/Qzr8xjaOIRg/mqdefault.jpg",
@@ -347,7 +423,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "UK5_bjLlgj8",
@@ -366,7 +442,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "ymr9b56S-v4",
@@ -375,7 +451,7 @@
    "channel_id": "UCDEYs4tjxnWJWTCWYbmwZdw",
    "published": "2026-10-17T12:48:13Z",
    "lang": "en",
-   "views": 18,
+   "views": 19,
    "likes": 1,
    "comments": 1,
    "thumbnail": "https://i.ytimg.com/vi/ymr9b56S-v4/mqdefault.jpg",
@@ -385,7 +461,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "YOeuH1nvBK0",
@@ -404,7 +480,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "L66LZLVBoXs",
@@ -423,7 +499,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "9t2-s0PgREo",
@@ -432,7 +508,7 @@
    "channel_id": "UCdZU5ECbjGYRnQPnClO0BZw",
    "published": "2026-10-14T14:55:24Z",
    "lang": "en",
-   "views": 84,
+   "views": 85,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/9t2-s0PgREo/mqdefault.jpg",
@@ -442,7 +518,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "utVOFcrbVjY",
@@ -461,7 +537,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "eo5XvxhqcAc",
@@ -480,7 +556,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "sDAoUaap7qs",
@@ -499,7 +575,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "-mDJz514Xh4",
@@ -518,7 +594,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "_OLISNmQZOA",
@@ -527,7 +603,7 @@
    "channel_id": "UCdZU5ECbjGYRnQPnClO0BZw",
    "published": "2026-10-14T14:40:12Z",
    "lang": "en",
-   "views": 47,
+   "views": 48,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/_OLISNmQZOA/mqdefault.jpg",
@@ -537,7 +613,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "MJEwPOYnxLE",
@@ -556,7 +632,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "juIaGtNC4rc",
@@ -575,7 +651,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "POS5q_NQ_uI",
@@ -584,7 +660,7 @@
    "channel_id": "UCmXK8ebTGeQrdoJKc3KvY7A",
    "published": "2026-10-10T10:19:56Z",
    "lang": "en",
-   "views": 803,
+   "views": 805,
    "likes": 4,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/POS5q_NQ_uI/mqdefault.jpg",
@@ -594,7 +670,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   },
   {
    "id": "4leWUH19ZyM",
@@ -603,7 +679,7 @@
    "channel_id": "UCUvMy9cVnJEASREbSVka4iw",
    "published": "2026-10-08T18:47:12Z",
    "lang": "en",
-   "views": 26,
+   "views": 29,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/4leWUH19ZyM/mqdefault.jpg",
@@ -613,7 +689,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-19T14:28:07Z"
+   "stats_updated": "2026-11-20T13:00:45Z"
   }
  ]
 }

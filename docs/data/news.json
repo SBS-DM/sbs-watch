@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:28:00Z",
+ "updated": "2026-11-20T13:00:38Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -8,10 +8,85 @@
  ],
  "articles": [
   {
+   "id": "CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr",
+   "title": "Hackers Exploit Misconfigured Temenos Banking Platform to Deploy Web Shells Without Passwords",
+   "source": "CyberSecurityNews",
+   "published": "2026-11-20T09:57:14Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMimgFBVV95cUxNYzVzc2JJS3RWQ3dISkp6NEFHaHdrclB4eWVuOFBRUVBWbmtDQ2xiYTF2YmUyNjEyUTdCX0lNSEtrTUwtOFdpc2xoWGZGbzFTTzRjcTNhQWRHOTVEOVFBU3Y4Q0FIclB6bTJHRHliN0RRUHdNRFBRc3prdzdjRnRnMGZ1ZWkxZTFubUdOV0FVMm1fVzB3b2Fvenl3",
+   "title": "Finastra’s Rick Foresta on the changing demands of retail lending",
+   "source": "The Digital Banker",
+   "published": "2026-11-20T06:24:34Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzVzc2JJS3RWQ3dISkp6NEFHaHdrclB4eWVuOFBRUVBWbmtDQ2xiYTF2YmUyNjEyUTdCX0lNSEtrTUwtOFdpc2xoWGZGbzFTTzRjcTNhQWRHOTVEOVFBU3Y4Q0FIclB6bTJHRHliN0RRUHdNRFBRc3prdzdjRnRnMGZ1ZWkxZTFubUdOV0FVMm1fVzB3b2Fvenl3?oc=5",
+   "brands": [
+    "Finastra"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiiwFBVV95cUxQaW90M2RJaEx5dldmWFM2NFBaeS1TSi1UOXhUNjd3OXBEZ19ueU1xNlBOMnB0dm9hTzl4RjhDaU1kMlM1X2xkaW5IR2d1SlljdHh3N2YyWGo4TnREZ1JRcjJVRDUzemhvSjZDYmZ5WnNGMXNmRF9JekhSOWpacDFLdTZOWXRhMlRRb3o0",
+   "title": "Building partnerships beyond technology with Finastra",
+   "source": "The Digital Banker",
+   "published": "2026-11-20T04:00:22Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaW90M2RJaEx5dldmWFM2NFBaeS1TSi1UOXhUNjd3OXBEZ19ueU1xNlBOMnB0dm9hTzl4RjhDaU1kMlM1X2xkaW5IR2d1SlljdHh3N2YyWGo4TnREZ1JRcjJVRDUzemhvSjZDYmZ5WnNGMXNmRF9JekhSOWpacDFLdTZOWXRhMlRRb3o0?oc=5",
+   "brands": [
+    "Finastra"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiswFBVV95cUxQdXFxNFlDcWF6V3VKZF9lMkJMZFFtcmkxSVZCOGVLWWdTMmpDcDFGUjQ0UXpXV3JzYzZoZm56R0oxT2o0cUdaY21iVk5RYko3dnJHOUN1b2M4TVpONGE5bmh6VHdwRjdjU0dHekhKZThQRENYS184LTN5Rkl0WEN5dmhtMzNBNDl1ODF2Ujd0OXBjcDNLcjNraG5pdzFheTdGUnc4VjJZU1IzZHNqRDhTeU1jdw",
+   "title": "SBS and Deloitte Partner to Revolutionize Regulatory Reporting with BIRD-Native Solution",
+   "source": "FF News",
+   "published": "2026-11-19T15:04:48Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXFxNFlDcWF6V3VKZF9lMkJMZFFtcmkxSVZCOGVLWWdTMmpDcDFGUjQ0UXpXV3JzYzZoZm56R0oxT2o0cUdaY21iVk5RYko3dnJHOUN1b2M4TVpONGE5bmh6VHdwRjdjU0dHekhKZThQRENYS184LTN5Rkl0WEN5dmhtMzNBNDl1ODF2Ujd0OXBjcDNLcjNraG5pdzFheTdGUnc4VjJZU1IzZHNqRDhTeU1jdw?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMingFBVV95cUxOQjNIc0lmTXVLcFJwVmVVdUpUREtyUjZDZng2Qzg5cDZIeEtGMzBiN0FUd09VUkIwaVhFeWoxUnVFa1J1Rm90RWVINkVNcm9WZWx1Q1d1MmQtQ2VGcVBfWWJ6RW92SEhxdFdOTk0ydWVvYjhpbzRLa2p1WDFmbEdldWxOdVN3ZHFLck1xaWdhR0tKNnJnQmRZUnlfcS1ydw",
+   "title": "Brazil’s Banco Daycoval Selects Temenos SaaS to Power Major US Expansion",
+   "source": "FF News",
+   "published": "2026-11-19T15:04:48Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjNIc0lmTXVLcFJwVmVVdUpUREtyUjZDZng2Qzg5cDZIeEtGMzBiN0FUd09VUkIwaVhFeWoxUnVFa1J1Rm90RWVINkVNcm9WZWx1Q1d1MmQtQ2VGcVBfWWJ6RW92SEhxdFdOTk0ydWVvYjhpbzRLa2p1WDFmbEdldWxOdVN3ZHFLck1xaWdhR0tKNnJnQmRZUnlfcS1ydw?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [
+    "United States",
+    "Latin America & Caribbean"
+   ],
+   "regions": [
+    "Americas"
+   ]
+  },
+  {
    "id": "CBMihwFBVV95cUxQazlka0Jrano0eTA3UmYyVk5QeUlGdWRUMXpGbXJTekpwNHRBaUpFRzJqNWZzc3hwOENFMWJPTTlhanlQN2hLcDIwQWtjbnJCWmR2YThLNFBLbFpkU1VBaV8wYkN0U1d2RmpxU3ZXSUlVajc1dU53SWFWYjAwYnd3QzlJNks4TUk",
    "title": "Brazil's Daycoval partners Temenos to accelerate US rollout",
    "source": "FinTech Futures",
-   "published": "2026-11-19T13:16:18Z",
+   "published": "2026-11-19T13:17:25Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQazlka0Jrano0eTA3UmYyVk5QeUlGdWRUMXpGbXJTekpwNHRBaUpFRzJqNWZzc3hwOENFMWJPTTlhanlQN2hLcDIwQWtjbnJCWmR2YThLNFBLbFpkU1VBaV8wYkN0U1d2RmpxU3ZXSUlVajc1dU53SWFWYjAwYnd3QzlJNks4TUk?oc=5",
    "brands": [
@@ -30,7 +105,7 @@
    "id": "CBMiqAFBVV95cUxOa05NcnRVVjViQXVyTThQdEVmVjJnMlo4UWp4LVRHMUxDNVdkTTZfTkN1MnIwRXd2Um1qcmg2Wmx5blc0VWZMbFJvbHRNbTBXS0pZUDlOY0JRWGZFaWJYd1NEdWtTTmMyaGF6dDF5c0xJalJoT1pycnB5OTNUbEMtVkZET0hIeTcwMGpzUEd5ZkxUdHFSWlp0S3pHbklFcFpqUkpkSzFwNWg",
    "title": "Schroders Wealth Management in digital update with Backbase",
    "source": "FinTech Futures",
-   "published": "2026-11-19T10:21:48Z",
+   "published": "2026-11-19T10:24:57Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa05NcnRVVjViQXVyTThQdEVmVjJnMlo4UWp4LVRHMUxDNVdkTTZfTkN1MnIwRXd2Um1qcmg2Wmx5blc0VWZMbFJvbHRNbTBXS0pZUDlOY0JRWGZFaWJYd1NEdWtTTmMyaGF6dDF5c0xJalJoT1pycnB5OTNUbEMtVkZET0hIeTcwMGpzUEd5ZkxUdHFSWlp0S3pHbklFcFpqUkpkSzFwNWg?oc=5",
    "brands": [
@@ -51,6 +126,24 @@
     "Temenos"
    ],
    "first_seen": "2026-11-19T14:28:00Z",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "Americas"
+   ]
+  },
+  {
+   "id": "CBMikwFBVV95cUxNVHZGamd0T0pmMDFtNU9qajFodHRQRzZteHl3aHJKR2F5TTVPRUtKNEpObGprVTR0SjR1OUFwWkhUYmhvaTB5SWphRUtmNUhWX2tHRDlqalQySm12NFFWS0E2Mk42Y1ZJUTVoaFBscnA1SmdSZ1M1STdYbS1ySklveWEyblBNVmxyYTlHRU9lWDBwbm8",
+   "title": "Daycoval choisit Temenos SaaS pour sa future succursale aux États-Unis dédiée aux entreprises",
+   "source": "Securities.io",
+   "published": "2026-11-19T07:59:03Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVHZGamd0T0pmMDFtNU9qajFodHRQRzZteHl3aHJKR2F5TTVPRUtKNEpObGprVTR0SjR1OUFwWkhUYmhvaTB5SWphRUtmNUhWX2tHRDlqalQySm12NFFWS0E2Mk42Y1ZJUTVoaFBscnA1SmdSZ1M1STdYbS1ySklveWEyblBNVmxyYTlHRU9lWDBwbm8?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
    "countries": [
     "United States"
    ],
@@ -93,6 +186,38 @@
    "regions": [
     "Europe"
    ]
+  },
+  {
+   "id": "CBMiiAJBVV95cUxPaWFqLWlaZU4zaDgycF8zQm1qb2l4OVhLbnpYNVJUMlJ5dzdwcGgzbUFZZjI0MDVWMkxpMGFrTDVOMVdadGRVMmtLTGUtYnVnUmltNUdWeDZJTlIzYTJ4eEhiRmFtenhCZjJ4UXgwcW5INmZIUllEdENGOHI5N1NORXJtdTlXQXBKeHk2amM4NXJ6ZDV1TWtTci1YVmtjdWktbzI5cVROUnZPSG5WMENUQWFvUVk2cFdQUXlXa1ZiZUN6b3dDVVhRMThSSzhRYTlEbHNXeDVzR0RlQkE1aUNsZGRBUTVIalBPazVWc2d2UUxOU013R2hQRll1OUw0M1k1dTBYQ2NNU3Y",
+   "title": "Avis d'analystes France : Orange et 74Software couverts à l'achat",
+   "source": "Bourse Direct",
+   "published": "2026-11-19T07:38:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaWFqLWlaZU4zaDgycF8zQm1qb2l4OVhLbnpYNVJUMlJ5dzdwcGgzbUFZZjI0MDVWMkxpMGFrTDVOMVdadGRVMmtLTGUtYnVnUmltNUdWeDZJTlIzYTJ4eEhiRmFtenhCZjJ4UXgwcW5INmZIUllEdENGOHI5N1NORXJtdTlXQXBKeHk2amM4NXJ6ZDV1TWtTci1YVmtjdWktbzI5cVROUnZPSG5WMENUQWFvUVk2cFdQUXlXa1ZiZUN6b3dDVVhRMThSSzhRYTlEbHNXeDVzR0RlQkE1aUNsZGRBUTVIalBPazVWc2d2UUxOU013R2hQRll1OUw0M1k1dTBYQ2NNU3Y?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "id": "CBMiswFBVV95cUxObFdWdzNoaS1GemI1UHpkMDlScWxFWHQtMGFCazBScmh4NDMwZTlQaEF0ZlBTblVnZVFJdzcxMFRLZTRLRFFNaTFTajdOdkJFYktZWlRLLXNaR0hnVEtLOWxYV1I2MTUtdDFrbFIzTm9yeGwwT2ZjLUpDOERiZ2Qwa0xtOU1ldEVMNXV6ZnVqS01id2xLd1ZZMmM3c2hzemxPbXpXRVAtYmp0R3RZNXFuSmRIZw",
+   "title": "Backbase and Envestnet | Yodlee Partner to Revolutionize Engagement Banking with Data Insights",
+   "source": "FF News",
+   "published": "2026-11-19T00:54:44Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFdWdzNoaS1GemI1UHpkMDlScWxFWHQtMGFCazBScmh4NDMwZTlQaEF0ZlBTblVnZVFJdzcxMFRLZTRLRFFNaTFTajdOdkJFYktZWlRLLXNaR0hnVEtLOWxYV1I2MTUtdDFrbFIzTm9yeGwwT2ZjLUpDOERiZ2Qwa0xtOU1ldEVMNXV6ZnVqS01id2xLd1ZZMmM3c2hzemxPbXpXRVAtYmp0R3RZNXFuSmRIZw?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
   },
   {
    "id": "CBMioAFBVV95cUxORl9kb3R1YjQ5NURQdHdRQmx5MmVOblZrdEp1MzFjaWpVUHlBbmZsNDdEQWhOb2llR011V3FpbzFjd2tEZ0NHNWpMam5yUldyYUxKZlBGNVFLUWFSNGdPdm9uNTlvVWF0V29vS3V5blBxMVFPTzg2SEstbUZlWDBOV0xTQU1mOElEWFBYN0RyeHZHVDhoM3dUOEVIc0E1bFIw",
@@ -616,7 +741,7 @@
    "id": "CBMilwFBVV95cUxNbDdzZC1pNFlDb09UUzRtMXJPcDhZSVQ5THozYl93T3dvT0N3aE9rZmVTT0dOUXVOSTZRMk1YN0pyb2lTNnBUTlIya3MwdFc5U25rTmdnUTExRDRNOVdQem9KdGFRNVZfTDBFWWVoSkRwYVZfRjdGR3pRdDRGT0t1WU91bjFPNm9mZFlROEJLRlJfVjdQaW9v",
    "title": "Backbase appoints Greg Fahy and Deepak Pandey as CTOs",
    "source": "IBS Intelligence",
-   "published": "2026-11-10T08:38:32Z",
+   "published": "2026-11-10T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDdzZC1pNFlDb09UUzRtMXJPcDhZSVQ5THozYl93T3dvT0N3aE9rZmVTT0dOUXVOSTZRMk1YN0pyb2lTNnBUTlIya3MwdFc5U25rTmdnUTExRDRNOVdQem9KdGFRNVZfTDBFWWVoSkRwYVZfRjdGR3pRdDRGT0t1WU91bjFPNm9mZFlROEJLRlJfVjdQaW9v?oc=5",
    "brands": [
@@ -655,10 +780,24 @@
    "regions": []
   },
   {
+   "id": "CBMijwFBVV95cUxNSGpHQm1LZE1fT2F1Q3NlcF9GaWNyVDFuRy1SMmxoVnBaM2RhRmpwT01FZHNUc2xPbjZkaTR5TjAwU1ltX1BxZXF2QTRpTS00S0RtbDh5bEp1S3ZKSFdNay1Dc29UbkRuZ2VmNU9IUUR2LUlMNHp0RVJnZkJjbDZFVklKb29xT0VUcjkwN3VCbw",
+   "title": "Backbase Splits CTO Role Between Two Executives",
+   "source": "Wisevoter",
+   "published": "2026-11-10T08:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGpHQm1LZE1fT2F1Q3NlcF9GaWNyVDFuRy1SMmxoVnBaM2RhRmpwT01FZHNUc2xPbjZkaTR5TjAwU1ltX1BxZXF2QTRpTS00S0RtbDh5bEp1S3ZKSFdNay1Dc29UbkRuZ2VmNU9IUUR2LUlMNHp0RVJnZkJjbDZFVklKb29xT0VUcjkwN3VCbw?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
    "id": "CBMiowFBVV95cUxOMU00aEdUNUhNRjViNHFTd1BCWVQwZ0hGUkp1WEZhVUktcDB5enlmX2VuLXo3V3l1NWNBdmFOOGZTbTk2SGpTNlI5cWVma0RreEhtOTNncHFRVVJ5MUFYMTZGWU9ESk1mWU5qQ3h0RmpBOGJJT2wxS2stWVloTjdyemQ2NHFRdHV3TWhkQVl3eDdmdHh6LTZZVlVkc183eDFHeVZz",
    "title": "Libya's Wahda Bank adopts Backbase for digital banking upgrade",
    "source": "FinTech Futures",
-   "published": "2026-11-09T12:53:58Z",
+   "published": "2026-11-09T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMU00aEdUNUhNRjViNHFTd1BCWVQwZ0hGUkp1WEZhVUktcDB5enlmX2VuLXo3V3l1NWNBdmFOOGZTbTk2SGpTNlI5cWVma0RreEhtOTNncHFRVVJ5MUFYMTZGWU9ESk1mWU5qQ3h0RmpBOGJJT2wxS2stWVloTjdyemQ2NHFRdHV3TWhkQVl3eDdmdHh6LTZZVlVkc183eDFHeVZz?oc=5",
    "brands": [
@@ -810,7 +949,7 @@
    "id": "CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv",
    "title": "Wahda Bank picks Backbase for digital banking",
    "source": "The Paypers",
-   "published": "2026-11-05T11:20:06Z",
+   "published": "2026-11-05T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv?oc=5",
    "brands": [
@@ -1965,6 +2104,20 @@
    "regions": []
   },
   {
+   "id": "CBMimwFBVV95cUxPRElHZVFtVGdJTE1PaS1Sd0x1dWhXakQ1ODYzeVpwaGhyMk13UUtUSlhUYmNLX1ZCeFlXNUZMV0dwMGJ2ME5zSDdIYnNrZHJLZlFnVEh5UHVUWlMycFEyS04wcWY2T25jTEo0VnRCcDJGTy1FVUR2bDd1MC1udUZ3NUFRR21Wc20yQlhGYTBKNWJlbDlUdnhTYzhNQQ",
+   "title": "Temenos progresse au troisième trimestre et réhausse ses objectifs 2026",
+   "source": "allnews.ch",
+   "published": "2026-10-27T07:00:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRElHZVFtVGdJTE1PaS1Sd0x1dWhXakQ1ODYzeVpwaGhyMk13UUtUSlhUYmNLX1ZCeFlXNUZMV0dwMGJ2ME5zSDdIYnNrZHJLZlFnVEh5UHVUWlMycFEyS04wcWY2T25jTEo0VnRCcDJGTy1FVUR2bDd1MC1udUZ3NUFRR21Wc20yQlhGYTBKNWJlbDlUdnhTYzhNQQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
    "id": "CBMimwFBVV95cUxONE9LSjgzdFM1Y2tSc2JFNDdGWmpwTFM5aHIya0d1M2N0eHJacV8ydGdlVHE0OEhBM1lYal9STUpkY2xLUUJVTnNGY1VNQVFOT2hVNmtpNTlOLWNxSmoyTFFoZkVjUE1KaUF4NWVXNUFER0VMUnVDX0VTbVZ1S2dia3pjbmpEQk1jVHV5R29aQjh6Xzd0YnlUclFHQQ",
    "title": "La plus grande coopérative de crédit du Canada choisit Temenos SaaS pour moderniser son système bancaire central",
    "source": "Securities.io",
@@ -2290,7 +2443,7 @@
   },
   {
    "id": "CBMivgFBVV95cUxOc2lWUk5ZQ0xvamNLQWxmYUNDZFlfY3hsdmV0TWltdkRLNXM4ZUZ3d1VFQzFfWk1rVm1fYTE2SFV0WWp4TXd2UG9RVFJNTTRtOHA4SzNFdV9QbURVeVFCa0Y3eWJwMG5uaVhQRVRVN2hhS3FWenNBeS1qemhGYUR2Q0czd0NxTkhDUUhiVkx5aEZoZWpsQXlseHdWSm56UnlpbVJWdXVfeUZQcmVzOEJTRnlleW0wQ2p4eXNpTTVR",
-   "title": "Kingdom Bank overhauls core banking and payments tech with Temenos",
+   "title": "Kingdom Bank taps Temenos for core banking and payments tech",
    "source": "FinTech Futures",
    "published": "2026-10-23T07:00:00Z",
    "lang": "en",
