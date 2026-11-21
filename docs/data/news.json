@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:02:28Z",
+ "updated": "2026-11-21T13:29:18Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,39 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMirgFBVV95cUxOYjF1OGxNOTlnMlJ4N1hqTjdxU3AyM0Z2eGJpWnZoam0xSzJNLWR4WkxTTVQzQ3drcEpVR0hQMDM5ZmkwOWl3Q0lubkxUSHVHZnlZaGNMb3ZzTmJ1V2pwQ0F2VW9KVThjWUdkMEozSUJhTUo2LTJYRU5UZUNDRHdDdTQ2UXBldWtjM3J4NFNfcldOTTVOcmRQTjI1Uzg5QWt2bkhQT0I1dTZXNExLTEE",
+   "title": "Press Release Brazil’s Daycoval Selects Temenos SaaS to Power its US Expansion",
+   "source": "American Banker",
+   "published": "2026-11-20T17:19:39Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjF1OGxNOTlnMlJ4N1hqTjdxU3AyM0Z2eGJpWnZoam0xSzJNLWR4WkxTTVQzQ3drcEpVR0hQMDM5ZmkwOWl3Q0lubkxUSHVHZnlZaGNMb3ZzTmJ1V2pwQ0F2VW9KVThjWUdkMEozSUJhTUo2LTJYRU5UZUNDRHdDdTQ2UXBldWtjM3J4NFNfcldOTTVOcmRQTjI1Uzg5QWt2bkhQT0I1dTZXNExLTEE?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-21T13:29:18Z",
+   "countries": [
+    "United States",
+    "Latin America & Caribbean"
+   ],
+   "regions": [
+    "Americas"
+   ]
+  },
+  {
+   "id": "CBMiswFBVV95cUxNZVU2UlBscVZndm1uN3ExemQ5SzZyQVFveHVnZ0VWN3ltRzVWSE9nRVlmakVJOEhoZnZuRmVpVFZ1QXlsSjR2ajUtaUV3ZzRMVlZUM3ZfQTg4bDJpZ3RsV05MaEdUSDVxSVNpSjUxMEhVcW9wOWhOT1ExRlNkTzRnM3FERnpqdl9TWWhfaDVnUGRrN0JMb0VaUDh0aldfbXJ4RXBuMWZHcXJWNXN1UnFLb1F5UQ",
+   "title": "BankWeaver Cyberattack Targets Digital Banking Middleware via Temenos Quantum Fabric",
+   "source": "FF News",
+   "published": "2026-11-20T12:39:58Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVU2UlBscVZndm1uN3ExemQ5SzZyQVFveHVnZ0VWN3ltRzVWSE9nRVlmakVJOEhoZnZuRmVpVFZ1QXlsSjR2ajUtaUV3ZzRMVlZUM3ZfQTg4bDJpZ3RsV05MaEdUSDVxSVNpSjUxMEhVcW9wOWhOT1ExRlNkTzRnM3FERnpqdl9TWWhfaDVnUGRrN0JMb0VaUDh0aldfbXJ4RXBuMWZHcXJWNXN1UnFLb1F5UQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-21T13:29:18Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr",
    "title": "Hackers Exploit Misconfigured Temenos Banking Platform to Deploy Web Shells Without Passwords",
@@ -164,6 +197,24 @@
    "first_seen": "2026-11-19T14:28:00Z",
    "countries": [
     "Europe (regional)"
+   ],
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "id": "CBMiwAFBVV95cUxNQkVqUDJwRFc3Y0JnNWlXLWpERWl6OUVvX2V2c0RieHRjenJ5c1ppMk9yTGQzRzBocWNhM25Qd0FYbWtBOGdaRFhUeHdsb2pkTFQ0eDVlUFpIUmdvNjZPUjFIdmlFd2xGVk51T29HYWR3cjlRTWtrR1Y3OHBVaXNkbzZfbzVGVWF2Ulp0a1kxMU9BWnlTRWtMcXJSTTdYQ0lPbzZIMmVvMTlpbHJIeFEzb2pqb19jT2xQeXVLSmdIRzI",
+   "title": "Avis d'analystes France : Orange et 74Software couverts à l'achat",
+   "source": "Zonebourse Suisse",
+   "published": "2026-11-19T07:40:31Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkVqUDJwRFc3Y0JnNWlXLWpERWl6OUVvX2V2c0RieHRjenJ5c1ppMk9yTGQzRzBocWNhM25Qd0FYbWtBOGdaRFhUeHdsb2pkTFQ0eDVlUFpIUmdvNjZPUjFIdmlFd2xGVk51T29HYWR3cjlRTWtrR1Y3OHBVaXNkbzZfbzVGVWF2Ulp0a1kxMU9BWnlTRWtMcXJSTTdYQ0lPbzZIMmVvMTlpbHJIeFEzb2pqb19jT2xQeXVLSmdIRzI?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-21T13:29:18Z",
+   "countries": [
+    "France"
    ],
    "regions": [
     "Europe"
@@ -487,7 +538,7 @@
   },
   {
    "id": "CBMijAFBVV95cUxNS0I0MHhVYmlVYW1Fc1VWUVJoYXdFenp2aE1fRlJTdFRsMkxHa2NzWk5PRGNsU3hBZzNObHpkSEhfRTdibnpXTGUzT0NKOGhYcVQtWkJiMEdMaGFtZVpJRzkwLXBuLU1pUG9rcTNDRXZJeXhOZ1BWUzVhNWljcHd0VHZrT003Z2VjZFRQQg",
-   "title": "Beacon Bank Taps Finastra to Simplify Payments After Its Merger",
+   "title": "Beacon Bank Taps Finastra to Simplify Payments After Its Merger - Fintech Schweiz Digital Finance News",
    "source": "FintechNews CH",
    "published": "2026-11-17T09:24:18Z",
    "lang": "en",
@@ -752,6 +803,20 @@
    "regions": []
   },
   {
+   "id": "CBMifkFVX3lxTFBWTDE3LWRDRndoMklaMDlqVEktSnBtWlowMFdYc1ZxZzdwT0hZemVZd0FvREhZS3FHQ3dCdlNhaVE3a2JsVFJxZ3VjaExxbEdjQTJXRDViamtlTkNvUlhHdmNPYUp4dVBqcHRKOTBQcmNWUzhOVElrT2lOSTVVQQ",
+   "title": "Backbase Wins Gold in the 2026 Datos Insights Impact Awards in Commercial Banking & Payments for AI and Automation",
+   "source": "AOL.com",
+   "published": "2026-11-12T15:03:01Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTDE3LWRDRndoMklaMDlqVEktSnBtWlowMFdYc1ZxZzdwT0hZemVZd0FvREhZS3FHQ3dCdlNhaVE3a2JsVFJxZ3VjaExxbEdjQTJXRDViamtlTkNvUlhHdmNPYUp4dVBqcHRKOTBQcmNWUzhOVElrT2lOSTVVQQ?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-21T13:29:18Z",
+   "countries": [],
+   "regions": []
+  },
+  {
    "id": "CBMi_gFBVV95cUxQaDkxcG1sSVFCR1JHdF9kLUh2TURnZi1XMWVyX0JWRW45MVJocVVKdC1PVnRoT2J5Sm5pV2laa0RRQl9tV1NyMThadmdpWXBrS1hMbll4TGpBN2NFYThjcURTZXlNTlBsUy1yMERaNDVjZVB5T1hiTEd4RXhCTVhQeExDQXpkTGZROUtlNktmOXpJWE04Q3p5VVhJU0UxOGZuanJsWlFJWUhxb3dDSDJ3UGEwaHFyMHNsQWlJNmU5dW5EVEhFRFBPQ2lpdHVmdXlIazdUMEN5eWlyZG1kVDRWY0ZvWFFpOWFURnVwSm5xWTJQUjlmcC1SQ1BjeGtidw",
    "title": "Backbase Wins Gold in the 2026 Datos Insights Impact Awards in Commercial Banking & Payments for AI and Automation",
    "source": "Business Wire",
@@ -769,7 +834,7 @@
    "id": "CBMizgFBVV95cUxPR3BwRi1FVldZWkd0cWduU21IMWItZHp3Y0dRb3llQXYwb1lpTXU4Nlk3R284bVg2WjFYY3FYcVlZSWQ3VHFadDNwdjMyOW1CQ3Z2SEMtWUZlWWZwS29maTFWaWVRYWlMbXRubXh5U0lYWUJUcDdRTTVJeXhUeHFpSXN4U1RFVFVxRTJyMVJfVmFQU3F4c3NwMmJxWTc0X0lXMTFaZkZScGlWd3lCNjdoUHluWFpzUFMtOU5vUnBJZHJaaTh5WW9GZHNpS21PUQ",
    "title": "SBS boss Eric Bierry says AI agents will shrink bank core systems to a ‘fortress’ ledger",
    "source": "Scottish Financial News",
-   "published": "2026-11-12T10:29:41Z",
+   "published": "2026-11-12T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3BwRi1FVldZWkd0cWduU21IMWItZHp3Y0dRb3llQXYwb1lpTXU4Nlk3R284bVg2WjFYY3FYcVlZSWQ3VHFadDNwdjMyOW1CQ3Z2SEMtWUZlWWZwS29maTFWaWVRYWlMbXRubXh5U0lYWUJUcDdRTTVJeXhUeHFpSXN4U1RFVFVxRTJyMVJfVmFQU3F4c3NwMmJxWTc0X0lXMTFaZkZScGlWd3lCNjdoUHluWFpzUFMtOU5vUnBJZHJaaTh5WW9GZHNpS21PUQ?oc=5",
    "brands": [
@@ -1029,7 +1094,7 @@
    "id": "CBMiggFBVV95cUxNOVAyUEs3UmRVdUFPdkFlUE9mckRHcTVCcjdIMXF3aWZfSEMzQ1JxV3ZQRGRmdFp3MldMZWhmTGRYSnk0OGZOUE1uMEhlNkNmQlQyZ05DMUh0bXZDRWxEbThxWnNzbFBSelBvb0ZQODJCZjN2Q3Z3cW1WM1czYUNZUkZ3",
    "title": "Libya’s Wahda Bank taps Backbase for digital services",
    "source": "Yahoo Finance",
-   "published": "2026-11-05T11:57:53Z",
+   "published": "2026-11-05T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVAyUEs3UmRVdUFPdkFlUE9mckRHcTVCcjdIMXF3aWZfSEMzQ1JxV3ZQRGRmdFp3MldMZWhmTGRYSnk0OGZOUE1uMEhlNkNmQlQyZ05DMUh0bXZDRWxEbThxWnNzbFBSelBvb0ZQODJCZjN2Q3Z3cW1WM1czYUNZUkZ3?oc=5",
    "brands": [
@@ -1125,7 +1190,7 @@
    "id": "CBMimgFBVV95cUxPOGlnUmExTTJVVVYzaHdQdGJGYjlvS19vUDJpM0hOcEpFcUxXbHFmQm15VzdmLUZKZmp3ZkdPQnRCdjJqNFN4TnFHY3lyS1RKVTl3WmZ3bEE0QWpZbW5NTHFuVmNPSExCZUpQRU5hY012WmU1SjNiLUNHZjMzUGlsbDU0eHM3alprT3hOR1RQYUVrc1RIQTZiQktR",
    "title": "Former Temenos exec Barb Morgan appointed as new State Street Alpha CTO",
    "source": "FinTech Futures",
-   "published": "2026-11-04T10:58:07Z",
+   "published": "2026-11-04T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGlnUmExTTJVVVYzaHdQdGJGYjlvS19vUDJpM0hOcEpFcUxXbHFmQm15VzdmLUZKZmp3ZkdPQnRCdjJqNFN4TnFHY3lyS1RKVTl3WmZ3bEE0QWpZbW5NTHFuVmNPSExCZUpQRU5hY012WmU1SjNiLUNHZjMzUGlsbDU0eHM3alprT3hOR1RQYUVrc1RIQTZiQktR?oc=5",
    "brands": [
@@ -2591,7 +2656,7 @@
   },
   {
    "id": "CBMivgFBVV95cUxOc2lWUk5ZQ0xvamNLQWxmYUNDZFlfY3hsdmV0TWltdkRLNXM4ZUZ3d1VFQzFfWk1rVm1fYTE2SFV0WWp4TXd2UG9RVFJNTTRtOHA4SzNFdV9QbURVeVFCa0Y3eWJwMG5uaVhQRVRVN2hhS3FWenNBeS1qemhGYUR2Q0czd0NxTkhDUUhiVkx5aEZoZWpsQXlseHdWSm56UnlpbVJWdXVfeUZQcmVzOEJTRnlleW0wQ2p4eXNpTTVR",
-   "title": "Kingdom Bank taps Temenos for core banking and payments tech",
+   "title": "Kingdom Bank overhauls core banking and payments tech with Temenos",
    "source": "FinTech Futures",
    "published": "2026-10-23T07:00:00Z",
    "lang": "en",
