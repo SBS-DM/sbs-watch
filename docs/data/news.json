@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:23:03Z",
+ "updated": "2026-11-23T15:59:57Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,20 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMilwFBVV95cUxNY2JGQXFQYmZzUEFIRzYtNkQxUWhFNHlWbGV2UEFqV29YbENGRDFBNXZETFByT3J6QlhfMjRzN19sNDVTamEtYy1jaVZzRnZ4bHQ0ZTk3ZU0teHlza0VQNTF3V0dhb3pTZW51WDFuMmtveDl3bXZZbGIxTlpIWU1ENW5LSzNCdUVIM2ZrVmNVeEZGdHp3V2RN",
+   "title": "SBS and Deloitte target banks’ regulatory reporting choice",
+   "source": "FinTech Global",
+   "published": "2026-11-23T11:07:22Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2JGQXFQYmZzUEFIRzYtNkQxUWhFNHlWbGV2UEFqV29YbENGRDFBNXZETFByT3J6QlhfMjRzN19sNDVTamEtYy1jaVZzRnZ4bHQ0ZTk3ZU0teHlza0VQNTF3V0dhb3pTZW51WDFuMmtveDl3bXZZbGIxTlpIWU1ENW5LSzNCdUVIM2ZrVmNVeEZGdHp3V2RN?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMikwFBVV95cUxPWnVfREJDR3pwb2VZdFFlOXRpd1N3ZGs0MVZMTG1XVnJ5Z1pEdHRueFZhbTFPMTkwTUlDUUZISmFWMTRvTjlmNnhneWE0Vi1LRHlCd3dLcjBEZmI4eFFtMkc0QUNCbzhHTTEtS0E0OS1pcGJvNkN3THRsZE81b3VTUlNfNzY4U1g4MkpkOXlvVTJyODQ",
    "title": "Finastra Agrees to Pay $3.12M in Data Breach Suit",
@@ -58,13 +72,27 @@
    "id": "CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr",
    "title": "Hackers Exploit Misconfigured Temenos Banking Platform to Deploy Web Shells Without Passwords",
    "source": "CyberSecurityNews",
-   "published": "2026-11-20T09:57:14Z",
+   "published": "2026-11-20T09:54:54Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr?oc=5",
    "brands": [
     "Temenos"
    ],
    "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMi7wFBVV95cUxNbDhCSEQyQ3hEUWptblZidDFDcDJ0TU5pLWVTR2UxcktFRFpWYVVZeWRnQ09HMVoyVU1lQ3NhZ1N1Slk3dzN4WnN5OVBYVE9oVzJBX1drWFd3R3hCbVoxUHJiNlNULUd5R0tZeEFhSXRMUGt3azA3bWlGM3ZfN1NPbEdRZndtbk5sSmIxV1hmdmJJQ0dlcWtrYnlPb0JIbVpDUk5aMjNseGk0N2VPMUc5V2xhZHhnd3hyc2ZSbnpZOWlBcEtHZXQzazV5NzdGS2x6czJqRjJ3X2VoT29YbWhtelplVEc2bVllRzRGanc3MA",
+   "title": "Companhia De Saneamento (SBS) Receives a Buy from Bank of America Securities",
+   "source": "The Globe and Mail",
+   "published": "2026-11-20T08:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbDhCSEQyQ3hEUWptblZidDFDcDJ0TU5pLWVTR2UxcktFRFpWYVVZeWRnQ09HMVoyVU1lQ3NhZ1N1Slk3dzN4WnN5OVBYVE9oVzJBX1drWFd3R3hCbVoxUHJiNlNULUd5R0tZeEFhSXRMUGt3azA3bWlGM3ZfN1NPbEdRZndtbk5sSmIxV1hmdmJJQ0dlcWtrYnlPb0JIbVpDUk5aMjNseGk0N2VPMUc5V2xhZHhnd3hyc2ZSbnpZOWlBcEtHZXQzazV5NzdGS2x6czJqRjJ3X2VoT29YbWhtelplVEc2bVllRzRGanc3MA?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
    "countries": [],
    "regions": []
   },
@@ -147,6 +175,20 @@
    "regions": [
     "Americas"
    ]
+  },
+  {
+   "id": "CBMikwFBVV95cUxNVEJveDQxZ3B3Ui1pZzBaVVlOc1BHekhSYlpubGYyMlZpQW42RVN5dHNZZDk1VUZ2YTBHVmEwNklxa3RzWUNQUEZtT2tFV2hjc2VUMTRzZGRyTzJwbUMtQ0xpMUJ6ZVdMekVLc0ZXeUY1U3dNZHl6REVjaFpZdzh1d21raDJlV21fb0hUdkNBdC1MbVU",
+   "title": "Solid Bleached Sulfate (SBS) Board Market Growth Fueled by Expansion in the Packaging Industry",
+   "source": "openPR.com",
+   "published": "2026-11-19T12:01:07Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEJveDQxZ3B3Ui1pZzBaVVlOc1BHekhSYlpubGYyMlZpQW42RVN5dHNZZDk1VUZ2YTBHVmEwNklxa3RzWUNQUEZtT2tFV2hjc2VUMTRzZGRyTzJwbUMtQ0xpMUJ6ZVdMekVLc0ZXeUY1U3dNZHl6REVjaFpZdzh1d21raDJlV21fb0hUdkNBdC1MbVU?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
+   "countries": [],
+   "regions": []
   },
   {
    "id": "CBMiqAFBVV95cUxOa05NcnRVVjViQXVyTThQdEVmVjJnMlo4UWp4LVRHMUxDNVdkTTZfTkN1MnIwRXd2Um1qcmg2Wmx5blc0VWZMbFJvbHRNbTBXS0pZUDlOY0JRWGZFaWJYd1NEdWtTTmMyaGF6dDF5c0xJalJoT1pycnB5OTNUbEMtVkZET0hIeTcwMGpzUEd5ZkxUdHFSWlp0S3pHbklFcFpqUkpkSzFwNWg",
@@ -750,7 +792,7 @@
    "id": "CBMihwJBVV95cUxQVVZvblFFdk12S05xUDJ0NEgyc1VJdW5Oa3hDVUk5UEh0X3ZrZzBEclFjMjZXQ0dPMGhPWlZjeDB1WFkyOUJaQ2xfb2dramU4RFFWb2lRR051YzRoRmVYNUs0X0tsSVNXbk1XMDVDcE4ybkhSWjZwT3VOeFhCaW5Uc3pNQ0NRc2NzUUhPdTFsTU0yOHpyM2VzeTdoN3pPMGp2Y25wYWkyeTA4TWNOV3dGMHlrOEYzNkZzcndfRHk2M292bTNZQkVWS2JtVXFKM0tBS0NrWVFtVDRMZmFvNjVHSzJVaHdDVDdkNjlpV0hmTmVjanA2V0Z5WkpROWR1bGtNYUtZYUJJOA",
    "title": "BAC Investors Have Opportunity to Lead Bank of America Corporation Securities Fraud Lawsuit with SBS Law",
    "source": "GlobeNewswire",
-   "published": "2026-11-13T15:38:37Z",
+   "published": "2026-11-13T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVZvblFFdk12S05xUDJ0NEgyc1VJdW5Oa3hDVUk5UEh0X3ZrZzBEclFjMjZXQ0dPMGhPWlZjeDB1WFkyOUJaQ2xfb2dramU4RFFWb2lRR051YzRoRmVYNUs0X0tsSVNXbk1XMDVDcE4ybkhSWjZwT3VOeFhCaW5Uc3pNQ0NRc2NzUUhPdTFsTU0yOHpyM2VzeTdoN3pPMGp2Y25wYWkyeTA4TWNOV3dGMHlrOEYzNkZzcndfRHk2M292bTNZQkVWS2JtVXFKM0tBS0NrWVFtVDRMZmFvNjVHSzJVaHdDVDdkNjlpV0hmTmVjanA2V0Z5WkpROWR1bGtNYUtZYUJJOA?oc=5",
    "brands": [
@@ -862,7 +904,7 @@
    "id": "CBMimAFBVV95cUxQR29Yc0RYWV8zSHBKSGNEMlRBQVhGQng4QmZuV21RWGJYbmF3THFqdDVTT3ZZaUs0aWM4NEVXVUVqMnZRd0dXYzB5MHg2WFAwcjN6blVlOXV6anZaNVFQRHRMOURjMHNfSEhreUxaeTJRa0l5ZVB3R2QycFZHZVJNZkdMOF8tZTgyOWVRd3c1LTlWLWNVdGU2aw",
    "title": "Backbase Wins Gold in the 2026 Datos Insights Impact Awards in Commercial Banking & Payments for AI and Automation",
    "source": "Yahoo Finance",
-   "published": "2026-11-12T15:00:00Z",
+   "published": "2026-11-12T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR29Yc0RYWV8zSHBKSGNEMlRBQVhGQng4QmZuV21RWGJYbmF3THFqdDVTT3ZZaUs0aWM4NEVXVUVqMnZRd0dXYzB5MHg2WFAwcjN6blVlOXV6anZaNVFQRHRMOURjMHNfSEhreUxaeTJRa0l5ZVB3R2QycFZHZVJNZkdMOF8tZTgyOWVRd3c1LTlWLWNVdGU2aw?oc=5",
    "brands": [
@@ -932,7 +974,7 @@
    "id": "CBMikAFBVV95cUxOXzhHOWQ1UUxuVm1lcWc5LWNRellQaUI4dlB3WXdrMHR6WTMtSUczOHBJZmJHdVBjeDdoWkhIQ3Q3SnJBWkJiQVZCNTRLTGtNVUYxQUpESW9NY2hmSm9CWm5WUndWajNERUgwMnhzVHV6SThSUE5mTm9hYUcwM1pNQndKSEJvM3hXZlh6elVBZzM",
    "title": "Backbase bets on agentic AI with dual CTO leadership",
    "source": "FinTech Global",
-   "published": "2026-11-10T11:08:35Z",
+   "published": "2026-11-10T08:00:00Z",
    "lang": "en",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzhHOWQ1UUxuVm1lcWc5LWNRellQaUI4dlB3WXdrMHR6WTMtSUczOHBJZmJHdVBjeDdoWkhIQ3Q3SnJBWkJiQVZCNTRLTGtNVUYxQUpESW9NY2hmSm9CWm5WUndWajNERUgwMnhzVHV6SThSUE5mTm9hYUcwM1pNQndKSEJvM3hXZlh6elVBZzM?oc=5",
    "brands": [
@@ -995,6 +1037,20 @@
     "Backbase"
    ],
    "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiqwFBVV95cUxOLTdQVTYzU2YtWlp5T2xRQlNjdEtDc2YtWlNDNXJSTmN0X0lZU0ZFYXlrOUFnU2h3R0Y5YmluQUZPaDdKWF9nam9NbkRNZ25aMno4XzktRXgwWU5waXBCUC1ERExDV3Q4WlZDQXkxajhmSVFOQkF1aV9BQ1ZObEpLbU5zNFhoWUw5eThBeEgxejNUcVJuWmM4T3dMb2NXclpNM2w1Nk5uTlBycEE",
+   "title": "Wahda Bank partners with Backbase to launch digital banking platform",
+   "source": "IBS Intelligence",
+   "published": "2026-11-10T05:57:25Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTdQVTYzU2YtWlp5T2xRQlNjdEtDc2YtWlNDNXJSTmN0X0lZU0ZFYXlrOUFnU2h3R0Y5YmluQUZPaDdKWF9nam9NbkRNZ25aMno4XzktRXgwWU5waXBCUC1ERExDV3Q4WlZDQXkxajhmSVFOQkF1aV9BQ1ZObEpLbU5zNFhoWUw5eThBeEgxejNUcVJuWmM4T3dMb2NXclpNM2w1Nk5uTlBycEE?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
    "countries": [],
    "regions": []
   },
@@ -1180,6 +1236,24 @@
    ],
    "regions": [
     "Middle East & Africa"
+   ]
+  },
+  {
+   "id": "CBMiuAFBVV95cUxOUWZPMmNNYWxYS3VnaV9lYkV1aGRlS1V0bXhvYS13WjNLRFR3UmdJMkROQ3lCYmp1VFFkWi1FRWluUndnZmlkbXRiVkgtdTRqUGxvSlpURkhfdGE2WjNIQTJOU2NnNE5Jd0p5djM3cy1XYUNyemhpSGxrNGZPZ01VcmNpWjFSdk5XYUVKeHdyTkVQM2NzTHRtTVNwcXZ4T0haSThIWENnUnpZeTFyV3ZWNmZoRy14NzZ1",
+   "title": "SBS Nexus partners with iBilik Group to commercialise hotel media advertising in Malaysia",
+   "source": "marketech apac",
+   "published": "2026-11-05T08:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZPMmNNYWxYS3VnaV9lYkV1aGRlS1V0bXhvYS13WjNLRFR3UmdJMkROQ3lCYmp1VFFkWi1FRWluUndnZmlkbXRiVkgtdTRqUGxvSlpURkhfdGE2WjNIQTJOU2NnNE5Jd0p5djM3cy1XYUNyemhpSGxrNGZPZ01VcmNpWjFSdk5XYUVKeHdyTkVQM2NzTHRtTVNwcXZ4T0haSThIWENnUnpZeTFyV3ZWNmZoRy14NzZ1?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
+   "countries": [
+    "Southeast Asia"
+   ],
+   "regions": [
+    "Asia-Pacific"
    ]
   },
   {
@@ -1821,6 +1895,38 @@
    "regions": [
     "Europe"
    ]
+  },
+  {
+   "id": "CBMimgFBVV95cUxNOGxKeE9GWWhOVlU4TUNqTXVoMGNRLXFDb2ZqdWFULWlIQTFndnFWNmxfWm82SGVRcXpqYUhFNFdDemhoQlVjT204U0txUTR0T051a2dlUHpfRC1kLTU3Ynd5azlfNWF4dEVYX1lpTTRzMmswZlR2VzBYZW9KODJOQlg2Z0lDUGxTWnh4YUJack5SV0ZOMDB5TnN3",
+   "title": "SBS, NITV and Screen Australia shortlist nine projects for Digital Originals",
+   "source": "IF Magazine",
+   "published": "2026-10-28T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGxKeE9GWWhOVlU4TUNqTXVoMGNRLXFDb2ZqdWFULWlIQTFndnFWNmxfWm82SGVRcXpqYUhFNFdDemhoQlVjT204U0txUTR0T051a2dlUHpfRC1kLTU3Ynd5azlfNWF4dEVYX1lpTTRzMmswZlR2VzBYZW9KODJOQlg2Z0lDUGxTWnh4YUJack5SV0ZOMDB5TnN3?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
+   "countries": [
+    "Australia & NZ"
+   ],
+   "regions": [
+    "Asia-Pacific"
+   ]
+  },
+  {
+   "id": "CBMiogFBVV95cUxPN1Ria2V3cGpnUDU5UGVyNDY3Szd6Q2xZZHBZOVpoZmdhRmU0bmdZUkNLX0prZzFyeHNlbkFxWFI5cnozODFjbl9NNzI3T0RIb3hYZHRfeU9HNGZfMmVBbTJ4WC1JV0JTR1BINU1IM1pJVGVnQjB3VEtaeWY5S0pEMm5PMVR2RFU3QVM3S3NhSDBua0xNbHhrbFVlTlhWZWszT0E",
+   "title": "Backbase launches Delivery Factory for banking software",
+   "source": "The Paypers",
+   "published": "2026-10-28T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1Ria2V3cGpnUDU5UGVyNDY3Szd6Q2xZZHBZOVpoZmdhRmU0bmdZUkNLX0prZzFyeHNlbkFxWFI5cnozODFjbl9NNzI3T0RIb3hYZHRfeU9HNGZfMmVBbTJ4WC1JV0JTR1BINU1IM1pJVGVnQjB3VEtaeWY5S0pEMm5PMVR2RFU3QVM3S3NhSDBua0xNbHhrbFVlTlhWZWszT0E?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-23T15:59:57Z",
+   "countries": [],
+   "regions": []
   },
   {
    "id": "CBMi0wFBVV95cUxPbjdUQ1E1ZkIwaVNEVjFwc0hQUmFmZFhDX09zNUFOdDhSTXQ0N05XMlA1Vi16Z1M5TmhqTDJ5MWhTc2o3NkltZ1J3dlVlMXI1ZkdfYjJXX3hRaDlQR3FzRFdmbHB2SjNHN28ybHgzZGhlbWc3NUlGSkZFLTJ5RklVUTJoVmhvcjJCUGRQaWtDT00yRFBScnl2SS1GZHhRNF85ZU5jM0tXMzNDOFVucDBVMTAwZ0p5LVYzWkRpSFVCaWlrazJOUGl3N0JRdm5fZjZkOUg4",
