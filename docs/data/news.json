@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:54:36Z",
+ "updated": "2026-11-25T15:38:07Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -7,6 +7,34 @@
   "Finastra"
  ],
  "articles": [
+  {
+   "id": "CBMiywFBVV95cUxNRV9CT0w3aFpPVWRsSFNxXzU1LVBBRzZuN0Q4ZUl0bncyUTRQVldna0QwTHBDZ3o4WXBib3FGR2c3THR4VDc4RUdMeVRFOUNudTZMMW9rcUhvd0FhN2l4d2pkRW83eEFJOTZFdkhKSGI1czdSZXUzdFNCTG9seW1Hb0pITFJFWXZoMnFkWEVDZ1ZXQkxOTERxYi05UGFLV2dTNnQydXIzSXplSGpEX1ZUQ2lNVlZ3SVlURU11blFncGM5ckt6ZDRraWZ0TQ",
+   "title": "Schroders taps Backbase for AI-powered digital wealth management transformation",
+   "source": "internationalfinance.com",
+   "published": "2026-11-25T09:01:57Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRV9CT0w3aFpPVWRsSFNxXzU1LVBBRzZuN0Q4ZUl0bncyUTRQVldna0QwTHBDZ3o4WXBib3FGR2c3THR4VDc4RUdMeVRFOUNudTZMMW9rcUhvd0FhN2l4d2pkRW83eEFJOTZFdkhKSGI1czdSZXUzdFNCTG9seW1Hb0pITFJFWXZoMnFkWEVDZ1ZXQkxOTERxYi05UGFLV2dTNnQydXIzSXplSGpEX1ZUQ2lNVlZ3SVlURU11blFncGM5ckt6ZDRraWZ0TQ?oc=5",
+   "brands": [
+    "Backbase"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiY0FVX3lxTE53SDh5dFd6dm02QWhwM2l3TmlVTFJtMDJxUlZiWEZycTgxU1puUEpCRmNOUlRMT1NJQVNuTVNFSmFSOGVRcnZuZW1xRFBicVFmdUl3SVYydDVKaHB5T3RVQ0dzUQ",
+   "title": "Temenos AG (TEMN.VI) Stock Forum & Discussion - Yahoo Finance",
+   "source": "Yahoo! Finance Canada",
+   "published": "2026-11-23T14:09:41Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53SDh5dFd6dm02QWhwM2l3TmlVTFJtMDJxUlZiWEZycTgxU1puUEpCRmNOUlRMT1NJQVNuTVNFSmFSOGVRcnZuZW1xRFBicVFmdUl3SVYydDVKaHB5T3RVQ0dzUQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
+   "countries": [],
+   "regions": []
+  },
   {
    "id": "CBMilwFBVV95cUxNY2JGQXFQYmZzUEFIRzYtNkQxUWhFNHlWbGV2UEFqV29YbENGRDFBNXZETFByT3J6QlhfMjRzN19sNDVTamEtYy1jaVZzRnZ4bHQ0ZTk3ZU0teHlza0VQNTF3V0dhb3pTZW51WDFuMmtveDl3bXZZbGIxTlpIWU1ENW5LSzNCdUVIM2ZrVmNVeEZGdHp3V2RN",
    "title": "SBS and Deloitte target banks’ regulatory reporting choice",
@@ -32,6 +60,20 @@
     "Finastra"
    ],
    "first_seen": "2026-11-22T13:23:03Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMickFVX3lxTE5yQ1dpc0RndmZFSWRGTmNJeE1oV2hnRWpUajEtZE1Cald6WTJmVkJJeGZJSkRqbUVtS0pzdm1WdkZDaW5lUVVkVHlvanN6eXFJRVcydy11a3E3NlQtTVd5aWpfa05QTVFSbGhLOWpKeDVZQQ",
+   "title": "Temenos AG (TEMN.VI) recent insider transactions",
+   "source": "Yahoo Finance UK",
+   "published": "2026-11-21T09:05:10Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yQ1dpc0RndmZFSWRGTmNJeE1oV2hnRWpUajEtZE1Cald6WTJmVkJJeGZJSkRqbUVtS0pzdm1WdkZDaW5lUVVkVHlvanN6eXFJRVcydy11a3E3NlQtTVd5aWpfa05QTVFSbGhLOWpKeDVZQQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
    "countries": [],
    "regions": []
   },
@@ -69,6 +111,20 @@
    ]
   },
   {
+   "id": "CBMiXkFVX3lxTE1LV3ZhZDBwSVhIR2JwQmd6czUxXzhGN1Q2eG1pWnpKWlBJdzhFNW8ySUFOY2VxTGtkMlVVT05kb0Jlc3lZUzNyVjVzVXFUTzQ3UWhnSTlWdTQzSkdQV3c",
+   "title": "Temenos AG (TEMN.VI) Interactive Stock Chart - Yahoo Finance",
+   "source": "Yahoo! Finance Canada",
+   "published": "2026-11-20T15:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LV3ZhZDBwSVhIR2JwQmd6czUxXzhGN1Q2eG1pWnpKWlBJdzhFNW8ySUFOY2VxTGtkMlVVT05kb0Jlc3lZUzNyVjVzVXFUTzQ3UWhnSTlWdTQzSkdQV3c?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
+   "countries": [],
+   "regions": []
+  },
+  {
    "id": "CBMiswFBVV95cUxNZVU2UlBscVZndm1uN3ExemQ5SzZyQVFveHVnZ0VWN3ltRzVWSE9nRVlmakVJOEhoZnZuRmVpVFZ1QXlsSjR2ajUtaUV3ZzRMVlZUM3ZfQTg4bDJpZ3RsV05MaEdUSDVxSVNpSjUxMEhVcW9wOWhOT1ExRlNkTzRnM3FERnpqdl9TWWhfaDVnUGRrN0JMb0VaUDh0aldfbXJ4RXBuMWZHcXJWNXN1UnFLb1F5UQ",
    "title": "BankWeaver Cyberattack Targets Digital Banking Middleware via Temenos Quantum Fabric",
    "source": "FF News",
@@ -79,6 +135,20 @@
     "Temenos"
    ],
    "first_seen": "2026-11-21T13:29:18Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMickFVX3lxTE1Qb1MxT0FHdWtnRzl4QlIzaHdqMlc2QnlOdExEVWRNa2t0ekJ0RDFuTXlIZkZYTjQ5SFF6NXgtVnoxY01kTnc5MkQycmZrU0hZTlM0c2QxR1pFMFN2TmE0QXUwRjFIQ1BCSGFXalZyV0ZRQQ",
+   "title": "Temenos AG (TEMN.VI) recent insider transactions",
+   "source": "Yahoo Finance Australia",
+   "published": "2026-11-20T12:00:35Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Qb1MxT0FHdWtnRzl4QlIzaHdqMlc2QnlOdExEVWRNa2t0ekJ0RDFuTXlIZkZYTjQ5SFF6NXgtVnoxY01kTnc5MkQycmZrU0hZTlM0c2QxR1pFMFN2TmE0QXUwRjFIQ1BCSGFXalZyV0ZRQQ?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
    "countries": [],
    "regions": []
   },
@@ -319,6 +389,24 @@
     "SBS"
    ],
    "first_seen": "2026-11-20T13:00:38Z",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "id": "CBMikgJBVV95cUxNSW8ycUdWQ1oxR0hZTlNtS1R5UlNmNjQ5c2lMRFk2Y1dZRXE0Zzl4MDlvV1dwZE5meFFmMkRBRUwtOENaWHBXLTFHbnRIVmRWS0pLVnZpeXpjSWdEQ0N3c1hPNDg3dXYzVDFuNVdOTm5mY3NUN1p2eUhrWW5wLTA4WlNMdE5TdEZ1Q3pIOXp0WEtzVC1YYUJkVGJPaDNIUkJPaVNCMkNCMEpNVWVBSVJqYkJIU0pLTFliMU8tRFozelJybEVqUGJBN3hPNUlsODc0bUlVR2RVclZKN0NlY2NveEJEa2daby1LdnRJNDdhVkZwbVRtY19lUElpMVdsZWZnazBZMUxUS1FHVWg3TnFlS2h3",
+   "title": "Avis d'analystes France : Orange et 74Software couverts à l'achat",
+   "source": "Bourse Direct",
+   "published": "2026-11-19T07:38:00Z",
+   "lang": "fr",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSW8ycUdWQ1oxR0hZTlNtS1R5UlNmNjQ5c2lMRFk2Y1dZRXE0Zzl4MDlvV1dwZE5meFFmMkRBRUwtOENaWHBXLTFHbnRIVmRWS0pLVnZpeXpjSWdEQ0N3c1hPNDg3dXYzVDFuNVdOTm5mY3NUN1p2eUhrWW5wLTA4WlNMdE5TdEZ1Q3pIOXp0WEtzVC1YYUJkVGJPaDNIUkJPaVNCMkNCMEpNVWVBSVJqYkJIU0pLTFliMU8tRFozelJybEVqUGJBN3hPNUlsODc0bUlVR2RVclZKN0NlY2NveEJEa2daby1LdnRJNDdhVkZwbVRtY19lUElpMVdsZWZnazBZMUxUS1FHVWg3TnFlS2h3?oc=5",
+   "brands": [
+    "SBS"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
    "countries": [
     "France"
    ],
@@ -2485,6 +2573,20 @@
     "Temenos"
    ],
    "first_seen": "2026-11-24T15:54:36Z",
+   "countries": [],
+   "regions": []
+  },
+  {
+   "id": "CBMiuwFBVV95cUxOcTNDLUthelppNmpvVEtNczFyOFlfRW9mZ3ZzRXRETURtX1ltZGJuZ1Z2Z2w1ejlZb1hKVkNqTG5qUWw2a3dDS1pVNV9IVkRXeW5YQU8zWUc4dzFtOXBoeGxDRF9ZZjExRVZMWXF1RU9tbERSS0dHeHdKMmdBa0o4a0p2UzRUc19wU0FBbFJwMVoxRnpOcFA2VGhJQmlvdmNGTTRMbE5FRWp3RzZiQ0NGbnJiamY3Yjlmdzg4",
+   "title": "Temenos Q3FY26 Results: Adj EPS $1.23 beats est, FY26 guide up",
+   "source": "scanx.trade",
+   "published": "2026-10-27T07:00:00Z",
+   "lang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNDLUthelppNmpvVEtNczFyOFlfRW9mZ3ZzRXRETURtX1ltZGJuZ1Z2Z2w1ejlZb1hKVkNqTG5qUWw2a3dDS1pVNV9IVkRXeW5YQU8zWUc4dzFtOXBoeGxDRF9ZZjExRVZMWXF1RU9tbERSS0dHeHdKMmdBa0o4a0p2UzRUc19wU0FBbFJwMVoxRnpOcFA2VGhJQmlvdmNGTTRMbE5FRWp3RzZiQ0NGbnJiamY3Yjlmdzg4?oc=5",
+   "brands": [
+    "Temenos"
+   ],
+   "first_seen": "2026-11-25T15:38:07Z",
    "countries": [],
    "regions": []
   },
