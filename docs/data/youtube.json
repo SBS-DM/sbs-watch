@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:38:12Z",
+ "updated": "2026-11-26T15:20:01Z",
  "brands": [
   "SBS",
   "Temenos",
@@ -14,9 +14,9 @@
    "channel_id": "UC35oEu0aq_Fsia5ap1XCU1Q",
    "published": "2026-11-25T15:00:34Z",
    "lang": "en",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "views": 13,
+   "likes": 1,
+   "comments": 1,
    "thumbnail": "https://i.ytimg.com/vi/eT7qlTHDJUE/mqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=eT7qlTHDJUE",
    "brands": [
@@ -24,7 +24,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-25T15:38:12Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "0-u1eBbugfQ",
@@ -33,7 +33,7 @@
    "channel_id": "UCcTSyPt5w0m36Ut0hThLv0A",
    "published": "2026-11-25T12:23:46Z",
    "lang": "en",
-   "views": 3,
+   "views": 9,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/0-u1eBbugfQ/mqdefault.jpg",
@@ -43,7 +43,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-25T15:38:12Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "pTRfcpof8lA",
@@ -52,7 +52,7 @@
    "channel_id": "UCMhywLc-BENrJbuhCO-xWOw",
    "published": "2026-11-25T09:36:38Z",
    "lang": "en",
-   "views": 9,
+   "views": 33,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/pTRfcpof8lA/mqdefault.jpg",
@@ -62,7 +62,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-25T15:38:12Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "3oxMaK9AdS8",
@@ -71,7 +71,7 @@
    "channel_id": "UCMhywLc-BENrJbuhCO-xWOw",
    "published": "2026-11-24T15:47:31Z",
    "lang": "en",
-   "views": 14,
+   "views": 34,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/3oxMaK9AdS8/mqdefault.jpg",
@@ -81,7 +81,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-24T15:54:42Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "PTtvUqIco64",
@@ -90,7 +90,7 @@
    "channel_id": "UCScHeF5005mcewdxZOoGNVw",
    "published": "2026-11-23T18:31:29Z",
    "lang": "en",
-   "views": 3,
+   "views": 6,
    "likes": 0,
    "comments": 1,
    "thumbnail": "https://i.ytimg.com/vi/PTtvUqIco64/mqdefault.jpg",
@@ -100,7 +100,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-24T15:54:42Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "HUJzzjkwOAM",
@@ -119,7 +119,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-21T13:29:24Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "ZBt2eFAwBfA",
@@ -138,7 +138,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-20T13:00:45Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "YYfanZJyslk",
@@ -147,7 +147,7 @@
    "channel_id": "UC-SWmY7HswQ5hI9LiIHJd7Q",
    "published": "2026-11-19T14:22:54Z",
    "lang": "en",
-   "views": 25,
+   "views": 26,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/YYfanZJyslk/mqdefault.jpg",
@@ -157,7 +157,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-20T13:00:45Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "pAeEhrh2UGs",
@@ -166,7 +166,7 @@
    "channel_id": "UC-SWmY7HswQ5hI9LiIHJd7Q",
    "published": "2026-11-19T13:52:43Z",
    "lang": "en",
-   "views": 32,
+   "views": 33,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/pAeEhrh2UGs/mqdefault.jpg",
@@ -176,7 +176,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-20T13:00:45Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "EPNQzoCkGpQ",
@@ -185,7 +185,7 @@
    "channel_id": "UC_CgxL-TlGQQerk1eQP4RGQ",
    "published": "2026-11-18T19:15:09Z",
    "lang": "en",
-   "views": 18,
+   "views": 19,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/EPNQzoCkGpQ/mqdefault.jpg",
@@ -195,7 +195,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-19T14:28:07Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "gIGHlz56hEI",
@@ -204,7 +204,7 @@
    "channel_id": "UC35oEu0aq_Fsia5ap1XCU1Q",
    "published": "2026-11-18T15:00:10Z",
    "lang": "en",
-   "views": 60,
+   "views": 64,
    "likes": 1,
    "comments": 2,
    "thumbnail": "https://i.ytimg.com/vi/gIGHlz56hEI/mqdefault.jpg",
@@ -214,7 +214,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-20T13:00:45Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "ZXog_FnIuMA",
@@ -233,7 +233,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-17T14:26:46Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "qav9y979kJI",
@@ -252,7 +252,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-16T13:41:20Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "odVgAY9Qygc",
@@ -271,7 +271,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-16T13:41:20Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "vrhCpmleJLk",
@@ -290,7 +290,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "uJuUpBNOtOE",
@@ -309,7 +309,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "9NG4iEJvCZY",
@@ -328,7 +328,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "0ConH-8EF5k",
@@ -337,7 +337,7 @@
    "channel_id": "UCjm6Nbm2L7Zh847scyEwvyQ",
    "published": "2026-11-03T16:20:14Z",
    "lang": "en",
-   "views": 89,
+   "views": 90,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/0ConH-8EF5k/mqdefault.jpg",
@@ -347,7 +347,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "p7uvTF0ie0A",
@@ -366,7 +366,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "yv8hBOwnc2w",
@@ -375,7 +375,7 @@
    "channel_id": "UCusZ5XZebufFbuIv2CkX5AQ",
    "published": "2026-10-30T20:56:24Z",
    "lang": "en",
-   "views": 400,
+   "views": 401,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/yv8hBOwnc2w/mqdefault.jpg",
@@ -385,7 +385,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "bSyfVVugP8A",
@@ -394,7 +394,7 @@
    "channel_id": "UCCYd4nVHNwv1snGb0x9JJZA",
    "published": "2026-10-29T03:50:14Z",
    "lang": "en",
-   "views": 55,
+   "views": 58,
    "likes": 0,
    "comments": 2,
    "thumbnail": "https://i.ytimg.com/vi/bSyfVVugP8A/mqdefault.jpg",
@@ -404,7 +404,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "SG8hgCStb5E",
@@ -423,7 +423,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "T9dme-lLRak",
@@ -442,7 +442,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "VdckIIeDRwI",
@@ -461,7 +461,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "2v6op5GFq14",
@@ -470,7 +470,7 @@
    "channel_id": "UCEHeXk3HQxUFPX54IlLG6Sw",
    "published": "2026-10-24T16:02:34Z",
    "lang": "en",
-   "views": 85,
+   "views": 87,
    "likes": 1,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/2v6op5GFq14/mqdefault.jpg",
@@ -480,7 +480,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "nNyXqQ0qH0s",
@@ -499,7 +499,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "NKFi_7v46As",
@@ -508,7 +508,7 @@
    "channel_id": "UCv8gUw-tx2-bEYUkWgXeT3A",
    "published": "2026-10-20T13:15:06Z",
    "lang": "en",
-   "views": 116,
+   "views": 117,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/NKFi_7v46As/mqdefault.jpg",
@@ -518,7 +518,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "Qzr8xjaOIRg",
@@ -527,7 +527,7 @@
    "channel_id": "UClnv9f4OxAntYzo7R2PcFLA",
    "published": "2026-10-17T12:49:31Z",
    "lang": "en",
-   "views": 444,
+   "views": 446,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/Qzr8xjaOIRg/mqdefault.jpg",
@@ -537,7 +537,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "UK5_bjLlgj8",
@@ -556,7 +556,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "ymr9b56S-v4",
@@ -575,7 +575,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "YOeuH1nvBK0",
@@ -594,7 +594,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "L66LZLVBoXs",
@@ -613,7 +613,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "9t2-s0PgREo",
@@ -622,7 +622,7 @@
    "channel_id": "UCdZU5ECbjGYRnQPnClO0BZw",
    "published": "2026-10-14T14:55:24Z",
    "lang": "en",
-   "views": 95,
+   "views": 100,
    "likes": 0,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/9t2-s0PgREo/mqdefault.jpg",
@@ -632,7 +632,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "utVOFcrbVjY",
@@ -651,7 +651,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "eo5XvxhqcAc",
@@ -670,7 +670,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "sDAoUaap7qs",
@@ -689,7 +689,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "-mDJz514Xh4",
@@ -698,7 +698,7 @@
    "channel_id": "UCdZU5ECbjGYRnQPnClO0BZw",
    "published": "2026-10-14T14:40:28Z",
    "lang": "en",
-   "views": 84,
+   "views": 85,
    "likes": 2,
    "comments": 0,
    "thumbnail": "https://i.ytimg.com/vi/-mDJz514Xh4/mqdefault.jpg",
@@ -708,7 +708,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "_OLISNmQZOA",
@@ -727,7 +727,7 @@
    ],
    "official": true,
    "first_seen": "2026-11-06T15:19:09Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "MJEwPOYnxLE",
@@ -746,7 +746,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "juIaGtNC4rc",
@@ -765,7 +765,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "POS5q_NQ_uI",
@@ -784,7 +784,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   },
   {
    "id": "4leWUH19ZyM",
@@ -803,7 +803,7 @@
    ],
    "official": false,
    "first_seen": "2026-11-06T15:17:25Z",
-   "stats_updated": "2026-11-25T15:38:12Z"
+   "stats_updated": "2026-11-26T15:20:01Z"
   }
  ]
 }
